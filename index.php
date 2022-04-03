@@ -1,12 +1,12 @@
 <?php
-    $page_title="2021 MSN";
+    $page_title="2022 MSN";
     include("include/header.php");
 ?>
 
 <div data-role="content" style="text-align:left;padding-top: 0em;background-color:#e4e5e6">
 	<div  class="ui-block-a" style="width:70%;height:100%;background-color:#ffffff;padding-left: 35px;padding-right:35px;padding-top: 15px;">
 
-		<p style="font-size: 18px"><span><i><b>The conference virtual platform is available at <a href="https://msn2021.info">https://msn2021.info</a>. Authors of accepted please read the Virtual Presentation Guidelines and upload your video and slides by 25 November 2021.</b></i></span>
+<!-- 		<p style="font-size: 18px"><span><i><b>The conference virtual platform is available at <a href="https://msn2021.info">https://msn2021.info</a>. Authors of accepted please read the Virtual Presentation Guidelines and upload your video and slides by 25 November 2021.</b></i></span>
 
 		<p style="font-size: 18px"><span style="color:red;"><i><b>IEEE MSN'21 conference has been determined to be held virtually because of the status of coronavirus. The current registration fees are set under the situation of online conference. Hope all of you are in good health!</b></i></span>
 		<h1>Call for Papers</h1>
@@ -28,7 +28,7 @@
 
 		<h2>Best Paper Award and Journal Special Issues</h2>
 
-		<p><span style="color: red;font-weight: bold">Three accepted papers will be selected for best paper awards.</span> . Selected papers will be recommended to IEEE Transactions on Network Science and Engineering (TNSE, IF: 5.213),  Digital Communications and Networks (IF: 6.797), and Elsevier Computer Communications for <span style="color: red;font-weight: bold">potential fast-track publications.</span></p>
+		<p><span style="color: red;font-weight: bold">Three accepted papers will be selected for best paper awards.</span> . Selected papers will be recommended to IEEE Transactions on Network Science and Engineering (TNSE, IF: 5.213),  Digital Communications and Networks (IF: 6.797), and Elsevier Computer Communications for <span style="color: red;font-weight: bold">potential fast-track publications.</span></p> -->
 
 		<br><br>
 

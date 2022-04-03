@@ -13,15 +13,15 @@
     
     if(isset($page_title)) {
         if (!empty($page_title))
-            $page_title .= " - MSN 2021";
+            $page_title .= " - MSN 2022";
         else
-            $page_title .= "MSN 2021";
+            $page_title .= "MSN 2022";
     } else {
         $filename = $_SERVER['SCRIPT_FILENAME'];
         $filename = preg_replace("/^.*\//","",$filename);
         $filename = preg_replace("/.php$/","",$filename);
         
-        $page_title = $filename . " - MSN 2021";
+        $page_title = $filename . " - MSN 2022";
     }
     
     /* prepare page url */
