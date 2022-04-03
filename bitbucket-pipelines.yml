@@ -11,6 +11,6 @@ pipelines:
         script:
           - apt-get update
           - apt-get -qq install git-ftp
-          - git ftp init --insecure -vv -u $FTP_USERNAME -p $FTP_PASSWORD ftp://173.201.178.186/public_html/2022
+          - git ftp push --insecure -vv -u $FTP_USERNAME -p $FTP_PASSWORD ftp://173.201.178.186/public_html/2022
           - echo "build success"
           
