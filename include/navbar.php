@@ -44,11 +44,11 @@
       <div class="dropdown">
         <a class = "mybar-item dropbtn <?php if($mypage == "cf-papers.php" || $mypage == "cf-workshops.php" || $mypage == "cf-wkpaper.php" || $mypage == "cf-posters.php"){echo 'btn-selected-ui';}?>"href="#" >Calls</a>
         <div class="dropdown-content">
-<!--           <a href="cf-papers.php">Call for Papers</a>
-          <a href="cf-workshops.php">Call for Workshops</a>
+          <a href="cf-papers.php">Call for Papers</a>
+<!--           <a href="cf-workshops.php">Call for Workshops</a>
           <a href="cf-wkpaper.php">Call for Workshop Papers</a>
-          <a href="cf-posters.php">Call for Posters</a> -->
-<!--           <a href="camera_ready.php">Camera Ready</a> -->
+          <a href="cf-posters.php">Call for Posters</a>
+          <a href="camera_ready.php">Camera Ready</a> -->
         </div>
       </div>
     </li>
@@ -56,8 +56,8 @@
       <div class="dropdown">
         <a class = "mybar-item <?php if ($mypage == "organization.php" || $mypage == "progcom.php") echo('btn-selected-ui') ?>" href="#">Committees</a>
           <div class="dropdown-content">
-<!--             <a href="organization.php">Organization Committee</a>
-            <a href="progcom.php">Technical Program Committee</a> -->
+            <a href="organization.php">Organization Committee</a>
+<!--             <a href="progcom.php">Technical Program Committee</a> -->
           </div>
     </li>
     <li>
@@ -109,7 +109,7 @@
       </div>
       <div style="width:100%;height:100px">
       <div  class="ui-block-a" style="width:22%;height:100%;background-color: #00aeef;padding-top:40px;">
-        <a href="cf-papers.php" style="color: white;font-size: 1.2em"><!-- Call for Papers >> --></a>
+        <a href="cf-papers.php" style="color: white;font-size: 1.2em">Call for Papers >></a>
       </div>
       <div  class="ui-block-b" style="width:26%;height:100%;background-color:rgb(95,148,235);padding-top:40px;">
         <a href="cam-submission.php" style="color: white;font-size: 1.2em"><!-- Camera Ready Submission >> --></a>
