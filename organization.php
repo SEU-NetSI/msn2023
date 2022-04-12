@@ -20,7 +20,7 @@
 
       <li data-role="list-divider">Publication Chair</li>
       <?php
-      add_listitem("Dan Wang", "The Hong Kong Polytechnic University, HK","");
+      add_listitem("Dan Wang", "Hong Kong Polytechnic University, HK","");
       ?>
       <li data-role="list-divider">Web Chair</li>
       <?php
@@ -28,13 +28,12 @@
       ?>
       <li data-role="list-divider">Financial Chair</li>
       <?php
-      add_listitem("Carmen Au", "The Hong Kong Polytechnic University, HK","");
+      add_listitem("Carmen Au", "Hong Kong Polytechnic University, HK","");
       ?>
 
       <li data-role="list-divider">Local Organization Chair</li>
       <?php
-      add_listitem("Wang Miao", "University of Exeter, UK", "");
-      add_listitem("Is-Haka Mkwawa", "University of Plymouth, UK", "");
+      add_listitem("Yingying Chen", "Sun Yat-sen University, China", "");
       ?>
     </ul>
   </div>

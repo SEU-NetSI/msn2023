@@ -93,7 +93,7 @@
         <div class="swiper-container" style="height:auto;width: auto">
           <div class="swiper-wrapper">
             <div class="swiper-slide" style="width: 100%">
-              <img style="width: 100%"src="images/exeter/river.jpg">
+              <img style="width: 100%"src="images/guangzhou/gz.jpg">
             </div> 
 <!--             <div class="swiper-slide">
               <img style="width: 100%"src="images/japan/tower.jpg">
