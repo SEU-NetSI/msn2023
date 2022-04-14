@@ -12,20 +12,34 @@
       add_listitem("Michel Raynal", "University of Rennes, France","");
       add_listitem("Jie Wu", "Temple University, USA","");
       ?>
+
       <li data-role="list-divider">TPC Chairs</li>
       <?php
       add_listitem("Giuseppe Anastasi", "University of Pisa, Italy", "");
       add_listitem("Weigang Wu", "Sun Yat-sen University, China", "");
       ?>
 
+      <li data-role="list-divider">Workshop Chair</li>
+      <?php
+      add_listitem("Tian Wang", "Beijing Normal Unversity, China", "");
+      ?>
+
+      <li data-role="list-divider">Publicity Co-chairs</li>
+      <?php
+      add_listitem("Ruidong Li", "Kanazawa University, Japan", "");
+      add_listitem("Lei Yang", "South China University of Technology, China", "");
+      ?>
+
       <li data-role="list-divider">Publication Chair</li>
       <?php
       add_listitem("Dan Wang", "Hong Kong Polytechnic University, HK","");
       ?>
+
       <li data-role="list-divider">Web Chair</li>
       <?php
       add_listitem("Zhenjiang Li", "City University of Hong Kong, HK","");
       ?>
+
       <li data-role="list-divider">Financial Chair</li>
       <?php
       add_listitem("Carmen Au", "Hong Kong Polytechnic University, HK","");
