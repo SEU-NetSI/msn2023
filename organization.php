@@ -19,11 +19,21 @@
       add_listitem("Weigang Wu", "Sun Yat-sen University, China", "");
       ?>
 
+      <li data-role="list-divider">Panel Chair</li>
+      <?php
+      add_listitem("Huadong Ma", "Beijing University of Posts and Telecommunications, China","");
+      ?>
+
       <li data-role="list-divider">Workshop Chair</li>
       <?php
       add_listitem("Tian Wang", "Beijing Normal Unversity, China", "");
       ?>
 
+      <li data-role="list-divider">Tutorial Chair</li>
+      <?php
+      add_listitem("En Wang", "Jilin University, China", "");
+      ?>
+      
       <li data-role="list-divider">Publicity Co-chairs</li>
       <?php
       add_listitem("Ruidong Li", "Kanazawa University, Japan", "");
