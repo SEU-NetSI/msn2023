@@ -26,7 +26,7 @@
 
       <li data-role="list-divider">Workshop Chair</li>
       <?php
-      add_listitem("Tian Wang", "Beijing Normal Unversity, China", "");
+      add_listitem("Tian Wang", "Beijing Normal University, China", "");
       ?>
 
       <li data-role="list-divider">Tutorial Chair</li>
