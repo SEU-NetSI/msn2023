@@ -38,6 +38,7 @@
       <?php
       add_listitem("Ruidong Li", "Kanazawa University, Japan", "");
       add_listitem("Lei Yang", "South China University of Technology, China", "");
+      add_listitem("Maurizio Palmieri", "University of Pisa, Italy","");
       ?>
 
       <li data-role="list-divider">Publication Chair</li>
