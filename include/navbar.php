@@ -79,7 +79,7 @@
     </li>
     <li>
       <div class="dropdown">
-        <a class = "mybar-item dropbtn <?php if($mypage == "plat.php" || $mypage == "acco.php"){echo 'btn-selected-ui';}?>"href=# >Conference Virtual Platform</a>
+        <a class = "mybar-item dropbtn <?php if($mypage == "plat.php" || $mypage == "acco.php"){echo 'btn-selected-ui';}?>"href=# >Conference Venue</a>
         <div class="dropdown-content">
 <!--           <a href="venue.php">Conference Venue</a>
           <a href="acco.php">Accommodation</a> -->
