@@ -10,42 +10,42 @@
       <li data-role="list-divider">Track 1: Mobile & Wireless Sensing and Networking</li>
       <?php
             add_listitem("<b>Track Chairs:</b>","","");
-            add_listitem("Armir Bujari", "University of Bologna, Italy", "armir.bujari@unibo.it");
-            add_listitem("Enrico Natalizio", "Technology Innovation Institute, UAE (Université de Lorraine, France)", "enrico.natalizio@tii.ae");
+            add_listitem("Armir Bujari", "University of Bologna, Italy", "");
+            add_listitem("Enrico Natalizio", "Technology Innovation Institute, UAE (Université de Lorraine, France)", "");
       ?>
 
       <li data-role="list-divider">Track 2: Edge Computing, IoT and Digital Twins</li>
       <?php
             add_listitem("<b>Track Chairs:</b>","","");
-            add_listitem("Eirini Eleni Tsiropoulou", "University of New Mexico Albuquerque, USA", "eirini@unm.edu");
-            add_listitem("Suzan Bayhan", "University of Twente, Netherlands", "s.bayhan@utwente.nl");
+            add_listitem("Eirini Eleni Tsiropoulou", "University of New Mexico Albuquerque, USA", "");
+            add_listitem("Suzan Bayhan", "University of Twente, Netherlands", "");
       ?>
 
       <li data-role="list-divider">Track 3: Security, Privacy, Trust, and Blockchain</li>
       <?php
             add_listitem("<b>Track Chair:</b>","","");
-            add_listitem("Weizhi Meng", "Technical University of Denmark, Denmark","weme@dtu.dk");
+            add_listitem("Weizhi Meng", "Technical University of Denmark, Denmark","");
       ?>
 
       <li data-role="list-divider">Track 4: Big Data and AI</li>
       <?php
             add_listitem("<b>Track Chair:</b>","","");
-            add_listitem("Lorenzo Valerio", "IIT-CNR, Italy","lorenzo.valerio@iit.cnr.it");
+            add_listitem("Lorenzo Valerio", "IIT-CNR, Italy","");
           
       ?>
 
       <li data-role="list-divider">Track 5: Systems, Tools, Testbed</li>
       <?php
             add_listitem("<b>Track Chair:</b>","","");
-            add_listitem("James Zheng", "Macquarie University, Australia","james.zheng@mq.edu.au");
+            add_listitem("James Zheng", "Macquarie University, Australia","");
 
       ?>
 
       <li data-role="list-divider">Track 6: Applications in Smart Cities, Healthcare and Other Areas</li>
       <?php
             add_listitem("<b>Track Chairs:</b>","","");
-            add_listitem("Deze Zeng", "China University of Geosciences, China","deze@cug.edu.cn");
-            add_listitem("Zakirul Alam Bhuiyan", "Fordham University, USA","mbhuiyan3@fordham.edu");
+            add_listitem("Deze Zeng", "China University of Geosciences, China","");
+            add_listitem("Zakirul Alam Bhuiyan", "Fordham University, USA","");
 
       ?>
 
