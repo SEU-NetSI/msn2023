@@ -23,21 +23,24 @@
 
       <li data-role="list-divider">Track 3: Security, Privacy, Trust, and Blockchain</li>
       <?php
-            add_listitem("<b>Track Chair:</b>","","");
+            add_listitem("<b>Track Chairs:</b>","","");
             add_listitem("Weizhi Meng", "Technical University of Denmark, Denmark","");
+            add_listitem("Sokratis K. Katsikas", "Norwegian University of Science and Technology, Norway","");
       ?>
 
       <li data-role="list-divider">Track 4: Big Data and AI</li>
       <?php
-            add_listitem("<b>Track Chair:</b>","","");
+            add_listitem("<b>Track Chairs:</b>","","");
             add_listitem("Lorenzo Valerio", "IIT-CNR, Italy","");
+            add_listitem("Giovanni Neglia", "INRIA, France","");
           
       ?>
 
       <li data-role="list-divider">Track 5: Systems, Tools, Testbed</li>
       <?php
-            add_listitem("<b>Track Chair:</b>","","");
+            add_listitem("<b>Track Chairs:</b>","","");
             add_listitem("James Zheng", "Macquarie University, Australia","");
+            add_listitem("Lei Pan", "Deakin University, Australia","");
 
       ?>
 
