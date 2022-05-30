@@ -115,7 +115,7 @@
         <a href="cam-submission.php" style="color: white;font-size: 1.2em"><!-- Camera Ready Submission >> --></a>
       </div>
             <div  class="ui-block-b" style="width:22%;height:100%;background-color:#58595b;padding-top:40px;">
-        <a href="submission.php" style="color: white;font-size: 1.2em"><!-- Submission >> --></a>
+        <a href="submission.php" style="color: white;font-size: 1.2em">Submission >></a>
       </div>
       <div  class="ui-block-b" style="width:30%;height:100%;background-color:#6d6e70;padding-top:40px;">
         <a href="registration.php" style="color: white;font-size: 1.2em"><!-- Registration >> --></a>

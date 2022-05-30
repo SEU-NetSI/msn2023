@@ -32,10 +32,10 @@
 	 	 </ul>
 
 <!-- 	 	<h2>Submission Procedures</h2>
-	 	<p>Submitted manuscripts must be prepared according to IEEE Computer Society Proceedings Format (double column, 10pt font, letter paper) and submitted in the PDF format. The manuscript submitted for review should be no longer than 8 pages. After the manuscript is accepted, the camera-ready paper may have up to 10 pages, subject to an additional fee per extra page. Manuscripts should be submitted to one of the research tracks. Submitted manuscripts must not contain previously published material or be under consideration for publication in another conference or journal at the time of submission. The accepted papers will be included in IEEE Xplore.</p>
+	 	<p>Submitted manuscripts must be prepared according to IEEE Computer Society Proceedings Format (double column, 10pt font, letter paper) and submitted in the PDF format. The manuscript submitted for review should be no longer than 8 pages. After the manuscript is accepted, the camera-ready paper may have up to 10 pages, subject to an additional fee per extra page. Manuscripts should be submitted to one of the research tracks. Submitted manuscripts must not contain previously published material or be under consideration for publication in another conference or journal at the time of submission. The accepted papers will be included in IEEE Xplore.</p> -->
 
 	 	<h2>Paper Submission and Publication</h2>
-	 	<p>Details of paper submission and publication can be found <a href="https://ieee-msn.org/2021/submission.php">here</a>.</p> -->
+	 	<p>Details of paper submission and publication can be found <a href="https://ieee-msn.org/2022/submission.php">here</a>.</p>
 
 		
 		<h2 style="color: black">Organization Committee</h2>
