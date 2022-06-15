@@ -33,31 +33,31 @@
             add_listitem("Suzan Bayhan", "University of Twente, Netherlands", "");
 
             add_listitem("<b>TPC Members:</b>","","");
-            add_lisitem("Mohammad Arif Ul Alam", "University of Massachusetts Lowell","");
-            add_lisitem("Atakan Aral", "University of Vienna","");
-            add_lisitem("David Bermbach", "TU Berlin","");
-            add_lisitem("Luiz F. Bittencourt", "University of Campinas","");
-            add_lisitem("Valeria Cardellini", "University of Roma \"Tor Vergata\"","");
-            add_lisitem("Lorenzo Corneo", "Aalto University","");
-            add_lisitem("Luca Davoli", "University of Parma","");
-            add_lisitem("Hao Han", "Nanjing University of Aeronautics & Astronautics","");
-            add_lisitem("Seyyedali Hosseinalipour", "Purdue University","");
-            add_lisitem("Yanqiu Huang", "University of Twente","");
-            add_lisitem("Chandra Krintz", "UC Santa Barbara","");
-            add_lisitem("Aris Leivadeas", "École de technologie supérieure","");
-            add_lisitem("Sanglu Lu", "State Key Laboratory for Novel Software Technology, Nanjing University, China","");
-            add_lisitem("Rolando Martins", "University of Porto","");
-            add_lisitem("Nathalie Mitton", "INRIA","");
-            add_lisitem("Nitinder Mohan", "Technical University Munich (TUM)","");
-            add_lisitem("Kwangsung Oh", "University of Nebraska at Omaha","");
-            add_lisitem("Symeon Papavassiliou", "National Technical University of Athens","");
-            add_lisitem("Carlo Puliafito", "University of Pisa","");
-            add_lisitem("Olga Saukh", "TU Graz / CSH Vienna","");
-            add_lisitem("Eleni Stai", "ETH Zurich","");
-            add_lisitem("Chiu Tan", "Temple University","");
-            add_lisitem("Yutao Tang", "Guilin University of Electronic and Technology","");
-            add_lisitem("Qiong Wu", "College of William and Mary","");
-            add_lisitem("Hong Zhang", "Hong Kong University of Science and Technology","");
+            add_listitem("Mohammad Arif Ul Alam", "University of Massachusetts Lowell","");
+            add_listitem("Atakan Aral", "University of Vienna","");
+            add_listitem("David Bermbach", "TU Berlin","");
+            add_listitem("Luiz F. Bittencourt", "University of Campinas","");
+            add_listitem("Valeria Cardellini", "University of Roma \"Tor Vergata\"","");
+            add_listitem("Lorenzo Corneo", "Aalto University","");
+            add_listitem("Luca Davoli", "University of Parma","");
+            add_listitem("Hao Han", "Nanjing University of Aeronautics & Astronautics","");
+            add_listitem("Seyyedali Hosseinalipour", "Purdue University","");
+            add_listitem("Yanqiu Huang", "University of Twente","");
+            add_listitem("Chandra Krintz", "UC Santa Barbara","");
+            add_listitem("Aris Leivadeas", "École de technologie supérieure","");
+            add_listitem("Sanglu Lu", "State Key Laboratory for Novel Software Technology, Nanjing University, China","");
+            add_listitem("Rolando Martins", "University of Porto","");
+            add_listitem("Nathalie Mitton", "INRIA","");
+            add_listitem("Nitinder Mohan", "Technical University Munich (TUM)","");
+            add_listitem("Kwangsung Oh", "University of Nebraska at Omaha","");
+            add_listitem("Symeon Papavassiliou", "National Technical University of Athens","");
+            add_listitem("Carlo Puliafito", "University of Pisa","");
+            add_listitem("Olga Saukh", "TU Graz / CSH Vienna","");
+            add_listitem("Eleni Stai", "ETH Zurich","");
+            add_listitem("Chiu Tan", "Temple University","");
+            add_listitem("Yutao Tang", "Guilin University of Electronic and Technology","");
+            add_listitem("Qiong Wu", "College of William and Mary","");
+            add_listitem("Hong Zhang", "Hong Kong University of Science and Technology","");
       ?>
 
       <li data-role="list-divider">Track 3: Security, Privacy, Trust, and Blockchain</li>
