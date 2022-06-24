@@ -98,7 +98,21 @@
             add_listitem("Stefano Savazzi", "IEIIT-CNR","");
             add_listitem("Anna Maria Vegni", "Roma Tre University, Italy","");
             add_listitem("Richard Vidal", "Accenture Technology Labs","");
-            add_listitem("Liang Xiao", "Xiamen University","");         
+            add_listitem("Liang Xiao", "Xiamen University","");
+            add_listitem("Pietro,Manzoni", "Universitat Politècnica de València", "");
+            add_listitem("Nitinder,Mohan", "Technical University Munich (TUM)", "");
+            add_listitem("Gianluca,Rizzo", "HES SO Valais", "");
+            add_listitem("Liang,Xiao", "Xiamen University", "");
+            add_listitem("Chuan,Xu", "Université Côte d'Azur", "");
+            add_listitem("Ashwin,Rao", "University of Helsinki", "");
+            add_listitem("Damiano,Carra", "Università di Verona", "");
+            add_listitem("Robert,Birke", "ABB Research", "");
+            add_listitem("Richard,Vidal", "Accenture", "");
+            add_listitem("Pietro,Cassarà", "ISTI-CNR", "");
+            add_listitem("Anna Maria", "Vegni,Roma Tre University, Italy", "");
+            add_listitem("Makram,Bouzid", "Bell Labs (Nokia France)", "");
+            add_listitem("Stefano,Savazzi", "IEIIT-CNR", "");
+            add_listitem("Francesco,Maria", "Faticanti INRIA", "");       
       ?>
 
       <li data-role="list-divider">Track 5: Systems, Tools, Testbed</li>
