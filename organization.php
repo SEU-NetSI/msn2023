@@ -60,6 +60,12 @@
       <?php
       add_listitem("Yingying Chen", "Sun Yat-sen University, China", "");
       ?>
+      
+      <li data-role="list-divider">Steering Committee Co-Chairs</li>
+      <?php
+      add_listitem("Jiannong Cao", "The Hong Kong Polytechnic University, HK","");
+      add_listitem("Xiaohua Jia", "City University of Hong Kong, HK","");
+      ?>
     </ul>
   </div>
   <div  class="ui-block-b" style="width:30%;height:100%;background-color:#e4e5e6;padding:20px 15px 15px 15px">

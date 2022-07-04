@@ -6,6 +6,8 @@
 <div data-role="content" style="text-align:left;padding-top: 0em;background-color:#e4e5e6">
 	<div  class="ui-block-a" style="width:70%;height:100%;background-color:#ffffff;padding-left: 35px;padding-right:35px;padding-top: 15px;">
 
+		<p style="font-size: 18px"><span style="color:red;"><i><b>Considering the COVID-19 virus situation, we decide to organize MSN 2022 in a hybrid format of virtual and in-person event.</b></i></span>
+			
 		<h1>Call for Papers</h1>
 		<p>MSN 2022 provides a forum for academic researchers and industry practitioners to present research progresses, exchange new ideas, and identify future directions in the field of Mobility, Sensing and Networking. MSN 2022 is technically sponsored by IEEE.</p>
 
