@@ -27,7 +27,7 @@
     <a href="index.php" style="margin-left: 1em;"><img style="width:80%;margin-top: 1em;"src="images/resources/logo.png"  alt="MSN 2021" /></a>
   </div>
   <div class="ui-block-b" style="width:55%;height:100%; font-weight: bold;font-size:1.5em;margin-top: 13px">
-    The 18th International Conference on Mobility, Sensing and Networking (MSN 2022)<br><span style="font-weight: normal;font-size:0.8em">December 14-16, 2022 · Guangzhou, China</span>
+    The 18th International Conference on Mobility, Sensing and Networking (MSN 2022)<br><span style="font-weight: normal;font-size:0.8em">December 14-16, 2022 · Guangzhou, China (Hybrid of In-person and virtual)</span>
   </div>
   <div class="ui-block-b" style="width:25%;height:100%; text-align: center">
     <span style="font-weight: bold">Technically Co-sponsored by IEEE</span>
