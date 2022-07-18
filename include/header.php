@@ -83,7 +83,7 @@
   <meta name="theme-color" content="#ffffff">
 
   <link rel="stylesheet" href="css/jquery.mobile-1.4.5.css" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/css/swiper.min.css">
+  <link rel="stylesheet" href="css/swiper.min.css">
   <!-- send file timestamp to prevent caching issues -->
   <link rel="stylesheet" href="css/style.css?cache_ts=<?php echo last_modified (file_dir () . "/css/style.css"); ?>" />
 
@@ -100,7 +100,7 @@
   <script>$.mobile || document.write('<script src="js/jquery.mobile-1.4.5.min.js"><\/script>')</script>
 
   <script src="js/jqm-docs.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/js/swiper.min.js"></script>
+  <script src="js/swiper.min.js"></script>
   <!-- send file timestamp to prevent caching issues -->
   <script src="js/script.js?cache_ts=<?php echo last_modified (file_dir () . "/js/script.js"); ?>" type='text/javascript'></script>
 
