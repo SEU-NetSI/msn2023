@@ -24,6 +24,8 @@
             add_listitem("Merve Saimler", "Ericsson, Turkey", "");
             add_listitem("Fabio D'Andreagiovanni", "French National Center for Scientific Research, France", "");
             add_listitem("Francesco Betti Sorbelli", "University of Perugia, Italy", "");
+            add_listitem("Imad Jawhar", "Al Maaref University, Lebanon", "");
+
       ?>
 
       <li data-role="list-divider">Track 2: Edge Computing, IoT and Digital Twins</li>
