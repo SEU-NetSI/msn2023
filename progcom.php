@@ -50,7 +50,6 @@
             add_listitem("Sanglu Lu", "State Key Laboratory for Novel Software Technology, Nanjing University, China","");
             add_listitem("Rolando Martins", "University of Porto","");
             add_listitem("Nathalie Mitton", "INRIA","");
-            add_listitem("Nitinder Mohan", "Technical University Munich (TUM)","");
             add_listitem("Kwangsung Oh", "University of Nebraska at Omaha","");
             add_listitem("Symeon Papavassiliou", "National Technical University of Athens","");
             add_listitem("Carlo Puliafito", "University of Pisa","");
@@ -92,19 +91,19 @@
             add_listitem("Giovanni Neglia", "INRIA, France","");
 
             add_listitem("<b>TPC Members:</b>","","");
-            add_listitem("Pietro, Manzoni", "Universitat Politècnica de València", "");
-            add_listitem("Nitinder, Mohan", "Technical University Munich (TUM)", "");
-            add_listitem("Gianluca, Rizzo", "HES SO Valais", "");
-            add_listitem("Liang, Xiao", "Xiamen Univ.", "");
-            add_listitem("Chuan, Xu", "Université Côte d'Azur", "");
-            add_listitem("Ashwin, Rao", "University of Helsinki", "");
-            add_listitem("Damiano, Carra", "Università di Verona", "");
-            add_listitem("Robert, Birke", "ABB Research", "");
-            add_listitem("Richard, Vidal", "Accenture", "");
-            add_listitem("Pietro, Cassarà", "ISTI-CNR", "");
-            add_listitem("Anna Maria, Vegni", "Roma Tre University, Italy", "");
-            add_listitem("Makram, Bouzid", "Bell Labs (Nokia France)", "");
-            add_listitem("Stefano, Savazzi", "IEIIT-CNR", "");
+            add_listitem("Pietro Manzoni", "Universitat Politècnica de València", "");
+            add_listitem("Nitinder Mohan", "Technical University Munich (TUM)", "");
+            add_listitem("Gianluca Rizzo", "HES SO Valais", "");
+            add_listitem("Liang Xiao", "Xiamen Univ.", "");
+            add_listitem("Chuan Xu", "Université Côte d'Azur", "");
+            add_listitem("Ashwin Rao", "University of Helsinki", "");
+            add_listitem("Damiano Carra", "Università di Verona", "");
+            add_listitem("Robert Birke", "ABB Research", "");
+            add_listitem("Richard Vidal", "Accenture", "");
+            add_listitem("Pietro Cassarà", "ISTI-CNR", "");
+            add_listitem("Anna Maria Vegni", "Roma Tre University, Italy", "");
+            add_listitem("Makram Bouzid", "Bell Labs (Nokia France)", "");
+            add_listitem("Stefano Savazzi", "IEIIT-CNR", "");
             add_listitem("Francesco Maria", "Faticanti INRIA", ""); 
                   ?>
 
@@ -117,7 +116,6 @@
             add_listitem("<b>TPC Members:</b>","","");
             add_listitem("James Zheng", "Macquarie University, Australia", "");
             add_listitem("Lei Pan", "Deakin University, Australia", "");
-            add_listitem("Charalambos Konstantinou", "King Abdullah University of Science and Technology, SA", "");
             add_listitem("Ziwei Wang", "CSIRO, Australia", "");
             add_listitem("Yangzhe Liao","Wuhan University of Technology, China", "");
             add_listitem("Daishi Kondo","Osaka Prefecture University, Japan", "");
@@ -138,7 +136,6 @@
             add_listitem("Bin Ye", "China University of Mining and Technology, China", "");
             add_listitem("Amit Singh", "University of Essex, UK", "");
             add_listitem("Abdelkrim Boukabou", "University of Jijel, Algeria", "");
-            add_listitem("Sirajum Munir", "Bosch Research and Technology Center, USA", "");
             add_listitem("Bo Yuan", "University of Leicester, UK", "");
             add_listitem("Nathalie Mitton", "INRIA, France", "");
             add_listitem("Khalida Ghanem", "CDTA, Algeria", "");
