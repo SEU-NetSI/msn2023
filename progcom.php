@@ -25,6 +25,7 @@
             add_listitem("Fabio D'Andreagiovanni", "French National Center for Scientific Research, France", "");
             add_listitem("Francesco Betti Sorbelli", "University of Perugia, Italy", "");
             add_listitem("Imad Jawhar", "Al Maaref University, Lebanon", "");
+            add_listitem("Anna Maria Vegni", "Roma Tre University, Italy", "");
 
       ?>
 
@@ -101,7 +102,6 @@
             add_listitem("Robert Birke", "ABB Research", "");
             add_listitem("Richard Vidal", "Accenture", "");
             add_listitem("Pietro Cassarà", "ISTI-CNR", "");
-            add_listitem("Anna Maria Vegni", "Roma Tre University, Italy", "");
             add_listitem("Makram Bouzid", "Bell Labs (Nokia France)", "");
             add_listitem("Stefano Savazzi", "IEIIT-CNR", "");
             add_listitem("Francesco Maria", "Faticanti INRIA", ""); 
