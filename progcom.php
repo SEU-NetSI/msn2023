@@ -104,7 +104,17 @@
             add_listitem("Pietro Cassarà", "ISTI-CNR", "");
             add_listitem("Makram Bouzid", "Bell Labs (Nokia France)", "");
             add_listitem("Stefano Savazzi", "IEIIT-CNR", "");
-            add_listitem("Francesco Maria", "Faticanti INRIA", ""); 
+            add_listitem("Francesco Maria", "Faticanti INRIA", "");
+            add_listitem("Jingjing Cao", "Wuhan University of Technology",""); 
+            add_listitem("Xiaoliang Fan", "Xiamen Univeristy","");
+            add_listitem("Liang Ge", "Chongqing University","");
+            add_listitem("Xianlong Jiao", "Chongqing University","");
+            add_listitem("Hao Liao", "Shenzhen University","");
+            add_listitem("Chi Lin", "Dalian University of Technology","");
+            add_listitem("Feng Lin", "Zhejiang Univeristy","");
+            add_listitem("Jianquan", "Ouyang Xiangtan University","");
+            add_listitem("Liang Wang", "Northwestern Polytechnical University","");
+            add_listitem("Yang Gu", "Institute of Computing Technology of the Chinese Academy of Sciences","");
                   ?>
 
       <li data-role="list-divider">Track 5: Systems, Tools, Testbed</li>
@@ -144,6 +154,12 @@
             add_listitem("Minsi Chen", "University of Huddersfield, UK", "");
             add_listitem("Chao Chen", "James Cook University, Australia", "");
             add_listitem("Yanjun Zhang", "University of Queensland, Australia", "");
+            add_listitem("Xijia Zheng", "Google USA","");
+            add_listitem("Chenguang Liu", "Google USA","");
+            add_listitem("Guanglou Zheng", "Coeustech Australia","");
+            add_listitem("Tiehua Zhang", "Ant Group China","");
+            add_listitem("Jie Hua", "Meta USA","");
+            add_listitem("Shigang Liu", "Swinburne University of Technology Australia","");
       ?>
 
       <li data-role="list-divider">Track 6: Applications in Smart Cities, Healthcare and Other Areas</li>
