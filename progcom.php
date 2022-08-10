@@ -60,6 +60,10 @@
             add_listitem("Yutao Tang", "Guilin University of Electronic and Technology","");
             add_listitem("Qiong Wu", "College of William and Mary","");
             add_listitem("Hong Zhang", "Hong Kong University of Science and Technology","");
+            add_listitem("Özlem Durmaz Incel", "Bogazici University","");
+            add_listitem("Ella Peltonen", "University of Oulu","");
+            add_listitem("Aleksandr Zavodovski", "Max Planck Institute","");
+
       ?>
 
       <li data-role="list-divider">Track 3: Security, Privacy, Trust, and Blockchain</li>
@@ -115,6 +119,7 @@
             add_listitem("Jianquan", "Ouyang Xiangtan University","");
             add_listitem("Liang Wang", "Northwestern Polytechnical University","");
             add_listitem("Yang Gu", "Institute of Computing Technology of the Chinese Academy of Sciences","");
+            add_listitem("Qing Zhou", "Chongqing University","");
                   ?>
 
       <li data-role="list-divider">Track 5: Systems, Tools, Testbed</li>
