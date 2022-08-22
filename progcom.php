@@ -116,11 +116,15 @@
             add_listitem("Hao Liao", "Shenzhen University","");
             add_listitem("Chi Lin", "Dalian University of Technology","");
             add_listitem("Feng Lin", "Zhejiang Univeristy","");
-            add_listitem("Jianquan", "Ouyang Xiangtan University","");
+            add_listitem("Jianquan Ouyang", "Xiangtan University","");
             add_listitem("Liang Wang", "Northwestern Polytechnical University","");
             add_listitem("Yang Gu", "Institute of Computing Technology of the Chinese Academy of Sciences","");
             add_listitem("Qing Zhou", "Chongqing University","");
-                  ?>
+            add_listitem("Mattia Campana", "NCR, Italy", "");
+            add_listitem("Rosario Catelli", "ICAR NCR, Italy", "");
+            add_listitem("Francescomaria Faticanti", "INRIA, France", "");
+            add_listitem("Patrizio Dazzi", "University of Pisa, Italy", "");
+      ?>
 
       <li data-role="list-divider">Track 5: Systems, Tools, Testbed</li>
       <?php
