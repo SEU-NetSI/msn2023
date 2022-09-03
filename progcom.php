@@ -5,7 +5,7 @@
 <div data-role="content" style="text-align:left;padding-top: 0em;background-color:#e4e5e6">
   <div  class="ui-block-a" style="width:70%;height:100%;background-color:#ffffff;padding-left: 35px;padding-right:35px;padding-top: 15px;">
     <h1 style="color: black">Technical Program Committee</h1>
-
+    
     <ul data-role="listview" data-inset="true" data-theme="a" data-content-theme="a" class="tbl">
       <li data-role="list-divider">Track 1: Mobile & Wireless Sensing and Networking</li>
       <?php
@@ -176,6 +176,25 @@
             add_listitem("<b>Track Chairs:</b>","","");
             add_listitem("Deze Zeng", "China University of Geosciences, China","");
             add_listitem("Zakirul Alam Bhuiyan", "Fordham University, USA","");
+
+            add_listitem("<b>TPC Members:</b>","","");
+            add_listitem("Abdelkhalick Mohammad", "Rolls-Royce UTC, University of Nottingham", "");
+            add_listitem("Antonino Rullo", "University of Calabria", "");
+            add_listitem("Chao Fang", "Beijing University of Technology", "");
+            add_listitem("Chi Lin", "School of Software, Dalian University of Technology", "");
+            add_listitem("Chunsheng Zhu", "The University of British Columbia", "");
+            add_listitem("En Wang", "Jilin University", "");
+            add_listitem("Fei Hui", "Chang'an University", "");
+            add_listitem("Gabriel Gomes de Oliveira", "UNICAMP", "");
+            add_listitem("Haisheng Tan", "University of Science and Technology of China", "");
+            add_listitem("Hao Zhou", "University of Science and Technology of China", "");
+            add_listitem("He Huang", "Soochow University", "");
+            add_listitem("Houbing Song", "Embry-Riddle Aeronautical University", "");
+            add_listitem("Hyunbum Kim", "Incheon National University", "");
+            add_listitem("Liu Sheng-Lan", "Dalian University of technology", "");
+            add_listitem("Luca Davoli", "University of Parma", "");
+            add_listitem("Pankaj Mishra", "G b pant university of agricultural and technology", "");
+
       ?>
 
     </ul>
