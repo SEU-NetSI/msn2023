@@ -15,6 +15,7 @@
 
         <p>Workshop proposals are solicited in all areas and topics pertaining to research and applications in Mobility, Sensing and Networking. Workshops addressing new emerging research directions in Mobility, Sensing and Networking are especially welcome. Further, workshops with novel formats, e.g., focused on a specific topic in a tutorial-style fashion, are strongly encouraged. Workshop papers will be included and indexed in the IEEE digital libraries (Xplore). The page limit for accepted regular workshop papers is 6 pages, including all figures, tables, and references.</p>
 
+
         <h2>Proposal Submission Guidelines</h2>
         <p>Workshop proposals should be submitted (in PDF format) no later than <span style="color:red;">May 15</span>, 2022 by e-mail to the MSN 2022 Workshop Co-chairs (see email id below), with "MSN 2022 Workshop Proposal" in the subject. Each proposal must include:</p>
 
@@ -32,11 +33,11 @@
         <h2>Important Dates</h2>
 
         <ul data-role="listview" data-inset="true" data-theme="a" data-content-theme="a" class="datetbl">
-            <?php add_dateitem("<span style=\"color: red;\">May 15</span>, 2022", "Deadline for Workshop Proposals"); ?>
-            <?php add_dateitem("<span style=\"color: red;\">May 25</span>, 2022", "Notification of Workshop Proposals"); ?>
-            <?php add_dateitem("<span style=\"color: red;\">Sep. 20</span>, 2022", "Deadline for Workshop Papers"); ?>
-            <?php add_dateitem("<span style=\"color: red;\">Oct. 10</span>, 2022", "Notification of Workshop Papers"); ?>
-            <?php add_dateitem("<span style=\"color: red;\">Oct. 20</span>, 2022", "Camera-ready for Workshop Papers"); ?> 
+            <?php add_dateitem("May 15, 2022", "Deadline for Workshop Proposals"); ?>
+            <?php add_dateitem("May 25, 2022", "Notification of Workshop Proposals"); ?>
+            <?php add_dateitem("Sep. 20, 2022", "Deadline for Workshop Papers"); ?>
+            <?php add_dateitem("Oct. 10, 2022", "Notification of Workshop Papers"); ?>
+            <?php add_dateitem("Oct. 20, 2022", "Camera-ready for Workshop Papers"); ?> 
         </ul>
 
 

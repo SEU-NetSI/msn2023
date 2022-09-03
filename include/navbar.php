@@ -64,6 +64,7 @@
       <div class="dropdown">
           <a class = "mybar-item dropbtn <?php if($mypage == "keynote_1.php" ||$mypage == "keynote_2.php"|| $mypage == "workshop.php" || $mypage == "panel.php" || $mypage == "accepted-papers.php" || $mypage == "guide.php" || $mypage == "glance.php" || $mypage == "tech.php" || $mypage == "guide_chair.php" || $mypage == "tutorials.php"){echo 'btn-selected-ui';}?>"href="#" >Program</a>
           <div class="dropdown-content">
+            <a href="workshops.php">Workshops</a>
 <!--             <a href="tutorials.php">Tutorials</a>
             <a href="accepted-papers.php">List of Accepted Papers&nbsp;&nbsp;</a>
             <a href="panel.php">Panel&nbsp;&nbsp;</a>
