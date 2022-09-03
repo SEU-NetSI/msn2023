@@ -5,7 +5,7 @@
 <div data-role="content" style="text-align:left;padding-top: 0em;background-color:#e4e5e6">
   <div  class="ui-block-a" style="width:70%;height:100%;background-color:#ffffff;padding-left: 35px;padding-right:35px;padding-top: 15px;">
     <h1 style="color: black">Technical Program Committee</h1>
-    
+
     <ul data-role="listview" data-inset="true" data-theme="a" data-content-theme="a" class="tbl">
       <li data-role="list-divider">Track 1: Mobile & Wireless Sensing and Networking</li>
       <?php
@@ -171,7 +171,12 @@
             add_listitem("Ziwei Wang", "CSIRO, Australia", "");
       ?>
 
-
+      <li data-role="list-divider">Track 6: Applications in Smart Cities, Healthcare and Other Areas</li>
+      <?php
+            add_listitem("<b>Track Chairs:</b>","","");
+            add_listitem("Deze Zeng", "China University of Geosciences, China","");
+            add_listitem("Zakirul Alam Bhuiyan", "Fordham University, USA","");
+      ?>
 
     </ul>
   </div>
