@@ -194,6 +194,16 @@
             add_listitem("Liu Sheng-Lan", "Dalian University of technology", "");
             add_listitem("Luca Davoli", "University of Parma", "");
             add_listitem("Pankaj Mishra", "G b pant university of agricultural and technology", "");
+            add_listitem("Qiang He", "Department of Computing Technologies, Swinburne University of Technology", "");
+            add_listitem("Rui Wang", "The Southern University of Science and Technology", "");
+            add_listitem("Ruiting Zhou", "Wuhan University", "");
+            add_listitem("Sahil Verma", "Chandigarh University, Mohali", "");
+            add_listitem("Tie Qiu", "Tianjin University", "");
+            add_listitem("Weifeng Sun", " Dalian University of Technology", "");
+            add_listitem("Xiangjie Kong", "Zhejiang University of Technology", "");
+            add_listitem("Xiaobo Zhou", "Tianjin University", "");
+            add_listitem("Xiaohui Peng", "Institute of Computing Technology, Chinese Academy of Sciences", "");
+            add_listitem("Xiaoyan Yin", "Northwest University", "");
 
       ?>
 
