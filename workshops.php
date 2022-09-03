@@ -39,9 +39,9 @@
 
             </li>
          </ul>
-        <br>
-        <br>
-        <br>
+        <br><br>
+        <br><br>
+        <br><br>
   </div>
   <div  class="ui-block-b" style="width:30%;height:100%;background-color:#e4e5e6;padding:20px 15px 15px 15px">
     <h1>News</h1>
