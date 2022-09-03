@@ -171,46 +171,7 @@
             add_listitem("Ziwei Wang", "CSIRO, Australia", "");
       ?>
 
-      <li data-role="list-divider">Track 6: Applications in Smart Cities, Healthcare and Other Areas</li>
-      <?php
-            add_listitem("<b>Track Chairs:</b>","","");
-            add_listitem("Deze Zeng", "China University of Geosciences, China","");
-            add_listitem("Zakirul Alam Bhuiyan", "Fordham University, USA","");
 
-            add_listitem("<b>TPC Members:</b>","","");
-            add_listitem("Abdelkhalick Mohammad", "Rolls-Royce UTC, University of Nottingham", "");
-            add_listitem("Antonino Rullo", "University of Calabria", "");
-            add_listitem("Chao Fang", "Beijing University of Technology", "");
-            add_listitem("Chi Lin", "School of Software, Dalian University of Technology", "");
-            add_listitem("Chunsheng Zhu", "The University of British Columbia", "");
-            add_listitem("En Wang", "Jilin University", "");
-            add_listitem("Fei Hui", "Chang'an Univ", "");
-            add_listitem("Gabriel Gomes de Oliveira", "UNICAMP", "");
-            add_listitem("Haisheng Tan", "University of Science and Technology of China", "");
-            add_listitem("Hao Zhou", "University of Science and Technology of China", "");
-            add_listitem("He Huang", "Soochow University", "");
-            add_listitem("Houbing Song", "Embry-Riddle Aeronautical University", "");
-            add_listitem("Hyunbum Kim", "Incheon National University", "");
-            add_listitem("Liu Sheng-Lan", "Dalian University of technology", "");
-            add_listitem("Luca Davoli", "University of Parma", "");
-            add_listitem("Pankaj Mishra", "G b pant university of agricultural and technology", "");
-            add_listitem("Qiang He", "Department of Computing Technologies, Swinburne University of Technology", "");
-            add_listitem("Rui Wang", "The Southern University of Science and Technology", "");
-            add_listitem("Ruiting Zhou", "Wuhan University", "");
-            add_listitem("Sahil Verma", "Chandigarh University, Mohali", "");
-            add_listitem("Tie Qiu", "Tianjin University", "");
-            add_listitem("Weifeng Sun", " Dalian University of Technology", "");
-            add_listitem("Xiangjie Kong", "Zhejiang University of Technology", "");
-            add_listitem("Xiaobo Zhou", "Tianjin University", "");
-            add_listitem("Xiaohui Peng", "Institute of Computing Technology, Chinese Academy of Sciences", "");
-            add_listitem("Xiaoyan Yin", "Northwest University", "");
-            add_listitem("Yin Zhang", "University of Electronic Science and Technology of China", "");
-            add_listitem("Yuan Wu", "University of Macau", "");
-            add_listitem("Yuanfang Chen,Hangzhou Dianzi University", "");
-            add_listitem("Zahra Movahedi", "University of Tehran", "");
-            add_listitem("Zhaolong Ning", "CQUPT", "");
-            add_listitem("Zhitao Guan", "North China Electric Power University", "");
-      ?>
 
     </ul>
   </div>
