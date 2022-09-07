@@ -54,7 +54,7 @@
     </li>
     <li>
       <div class="dropdown">
-        <a class = "mybar-item <?php if ($mypage == "organization.php" || $mypage == "progcom.php") echo('btn-selected-ui') ?>" href="#">Committees</a>
+        <a class = "mybar-item dropbtn <?php if ($mypage == "organization.php" || $mypage == "progcom.php") echo('btn-selected-ui') ?>" href="#">Committees</a>
           <div class="dropdown-content">
             <a href="organization.php">Organization Committee</a>
             <a href="progcom.php">Technical Program Committee</a>
