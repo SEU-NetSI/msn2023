@@ -39,10 +39,10 @@
 
 <div data-role="navbar" style="width:100%;max-width: 1200px;">
   <ul class="mybar">
-    <li style="width:15%;"><a href="index.php" class="mybar-item <?php if($mypage == "index.php"){echo 'btn-selected-ui';}?>" >Home</a></li>
+    <li style="width:15%;"><a href="index.php" style="border-top-width:：0px;" class="mybar-item <?php if($mypage == "index.php"){echo 'btn-selected-ui';}?>" >Home</a></li>
     <li style="width:17%;">
       <div class="dropdown">
-        <a class = "mybar-item dropbtn <?php if($mypage == "cf-papers.php" || $mypage == "cf-workshops.php" || $mypage == "cf-wkpaper.php" || $mypage == "cf-posters.php"){echo 'btn-selected-ui';}?>"href="#" >Calls</a>
+        <a style="border-top-width:：0px;" class = "mybar-item dropbtn <?php if($mypage == "cf-papers.php" || $mypage == "cf-workshops.php" || $mypage == "cf-wkpaper.php" || $mypage == "cf-posters.php"){echo 'btn-selected-ui';}?>"href="#" >Calls</a>
         <div class="dropdown-content">
           <a href="cf-papers.php">Call for Papers</a>
           <a href="cf-workshops.php">Call for Workshops</a>
