@@ -1190,10 +1190,3 @@ a.button{
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
-
-.ui-grid-a > .ui-block-a,
-.ui-grid-a > .ui-block-b {
-    /* width: 49.95%; IE7 */
-    /* margin-right: -.5px; BB5 */
-    width: 16.666%;
-}

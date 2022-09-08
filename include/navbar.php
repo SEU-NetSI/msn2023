@@ -39,8 +39,8 @@
 
 <div data-role="navbar" style="width:100%;max-width: 1200px;">
   <ul class="mybar">
-    <li><a href="index.php" class="mybar-item <?php if($mypage == "index.php"){echo 'btn-selected-ui';}?>" >Home</a></li>
-    <li>
+    <li class="ui-block-a" style="width:16.66%";><a href="index.php" class="mybar-item <?php if($mypage == "index.php"){echo 'btn-selected-ui';}?>" >Home</a></li>
+    <li class="ui-block-b" style="width:16.66%";>
       <div class="dropdown">
         <a class = "mybar-item dropbtn <?php if($mypage == "cf-papers.php" || $mypage == "cf-workshops.php" || $mypage == "cf-wkpaper.php" || $mypage == "cf-posters.php"){echo 'btn-selected-ui';}?>"href="#" >Calls</a>
         <div class="dropdown-content">
@@ -52,7 +52,7 @@
         </div>
       </div>
     </li>
-    <li>
+    <li class="ui-block-b" style="width:16.66%";>
       <div class="dropdown">
         <a class = "mybar-item dropbtn <?php if ($mypage == "organization.php" || $mypage == "progcom.php") echo('btn-selected-ui') ?>" href="#">Committees</a>
           <div class="dropdown-content">
@@ -60,7 +60,7 @@
             <a href="progcom.php">Technical Program Committee</a>
           </div>
     </li>
-    <li>
+    <li class="ui-block-b" style="width:16.66%";>
       <div class="dropdown">
           <a class = "mybar-item dropbtn <?php if($mypage == "keynote_1.php" ||$mypage == "keynote_2.php"|| $mypage == "workshop.php" || $mypage == "panel.php" || $mypage == "accepted-papers.php" || $mypage == "guide.php" || $mypage == "glance.php" || $mypage == "tech.php" || $mypage == "guide_chair.php" || $mypage == "tutorials.php"){echo 'btn-selected-ui';}?>"href="#" >Program</a>
           <div class="dropdown-content">
@@ -77,7 +77,7 @@
           </div>
       </div>
     </li>
-    <li>
+    <li class="ui-block-b" style="width:16.66%";>
       <div class="dropdown">
         <a class = "mybar-item dropbtn <?php if($mypage == "workshops.php"){echo 'btn-selected-ui';}?>"href=# >Workshops</a>
         <div class="dropdown-content">
@@ -87,7 +87,7 @@
         </div>
       </div>
     </li>
-    <li>
+    <li class="ui-block-b" style="width:16.66%";>
       <div class="dropdown">
         <a class = "mybar-item dropbtn <?php if($mypage == "plat.php" || $mypage == "acco.php"){echo 'btn-selected-ui';}?>"href=# >Conference Venue</a>
         <div class="dropdown-content">
