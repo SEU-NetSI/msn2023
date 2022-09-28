@@ -106,10 +106,8 @@
             add_listitem("Gianluca Rizzo", "HES SO Valais", "");
             add_listitem("Hao Liao", "Shenzhen University","");
             add_listitem("Jianquan Ouyang", "Xiangtan University","");
-            add_listitem("Jingjing Cao", "Wuhan University of Technology","");
             add_listitem("Liang Ge", "Chongqing University","");
             add_listitem("Liang Wang", "Northwestern Polytechnical University","");
-            add_listitem("Liang Xiao", "Xiamen Univ.", "");
             add_listitem("Makram Bouzid", "Bell Labs (Nokia France)", "");
             add_listitem("Mattia Campana", "NCR, Italy", "");
             add_listitem("Nitinder Mohan", "Technical University Munich (TUM)", "");
