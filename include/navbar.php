@@ -122,7 +122,7 @@
         <a href="cf-papers.php" style="color: white;font-size: 1.2em">Call for Papers >></a>
       </div>
       <div  class="ui-block-b" style="width:26%;height:100%;background-color:rgb(95,148,235);padding-top:40px;">
-        <a href="cam-submission.php" style="color: white;font-size: 1.2em"><!-- Camera Ready Submission >> --></a>
+        <a href="cam-submission.php" style="color: white;font-size: 1.2em">Camera Ready Submission >></a>
       </div>
             <div  class="ui-block-b" style="width:22%;height:100%;background-color:#58595b;padding-top:40px;">
         <a href="submission.php" style="color: white;font-size: 1.2em">Submission >></a>
