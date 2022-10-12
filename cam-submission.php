@@ -57,7 +57,7 @@
     </ul>
 
     <h2>Submission of the Camera Ready and Copyright Form</h2>
-    <p>Detailed instructions for submitting the camera ready version of accepted papers and copyright forms are available at the link:<a href="https://ieeecps.org/#!/auth/login?ak=1&pid=7IqNxxPyeDMmOynUJHNyXL">https://ieeecps.org/#!/auth/login?ak=1&pid=7IqNxxPyeDMmOynUJHNyXL</a></p>
+    <p>Detailed instructions for submitting the camera ready version of accepted papers and copyright forms are available at the link:<br><a href="https://ieeecps.org/#!/auth/login?ak=1&pid=7IqNxxPyeDMmOynUJHNyXL">https://ieeecps.org/#!/auth/login?ak=1&pid=7IqNxxPyeDMmOynUJHNyXL</a></p>
 
     <h2>Contact Information</h2>
     <p>For help with submitting your paper, please contact the proceedings production editor, <a href="mailto:jgurrola625@gmail.com">Javier Gurrola</a>. For any other matters related to the publication process, please contact <a href="mailto:dan.wang@polyu.edu.hk">Dan Wang</a>.</p>
