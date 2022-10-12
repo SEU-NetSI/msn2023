@@ -9,7 +9,7 @@
         <p>Online registration is now available. All participants must register and pay the appropriate fee in order to attend MSN 2022.</p>
         <p>Before registering for the conference, please read the following policies and procedures on this page. If you have finished reading this page and are ready to start the registration process, please click on the button below.</p>
 
-        <a style="text-decoration: none;" target="_blank" href="https://www.polyu.edu.hk/pfs2/index.php/939579?lang=en"><button style="width: auto;background: rgb(192,0,0);"><b style="font-size: 24px;color:white">Register Now</b></button></a>
+        <a style="text-decoration: none;" target="_blank" href="https://www.polyu.edu.hk/pfs2/index.php/725318?lang=en"><button style="width: auto;background: rgb(192,0,0);"><b style="font-size: 24px;color:white">Register Now</b></button></a>
 
 
         <h2>Author Registration Requirements</h2>
@@ -23,7 +23,7 @@
 
         <h2>Registration Fees</h2>
 
-        <b style="color:rgb(46,116,181)">Author Registration (Deadline: 25 October 2022)</b><br><br>
+        <b style="color:rgb(46,116,181)">Author Registration - <span style="color:red">Deadline: 25 October 2022</span></b><br><br>
 
         <table border="1" style="border-collapse: collapse;">
             <tr>
