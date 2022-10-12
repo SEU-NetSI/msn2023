@@ -128,7 +128,7 @@
         <a href="submission.php" style="color: white;font-size: 1.2em">Submission >></a>
       </div>
       <div  class="ui-block-b" style="width:30%;height:100%;background-color:#6d6e70;padding-top:40px;">
-        <a href="registration.php" style="color: white;font-size: 1.2em"><!-- Registration >> --></a>
+        <a href="registration.php" style="color: white;font-size: 1.2em">Registration >></a>
       </div>
       </div>
 <?php } ?>
