@@ -91,13 +91,13 @@
             </tr>
         </table>
 
-        <p><b>Author in-person registrations<b> include: access to the conference venue, 3 daily coffee breaks, 1 lunch per day, 1 ticket for the welcome reception, 1 ticket for the banquet, presentation and publication of one paper (the registrant must be a co-author of the associated paper). </p>
+        <p><b>Author in-person registrations</b> include: access to the conference venue, 3 daily coffee breaks, 1 lunch per day, 1 ticket for the welcome reception, 1 ticket for the banquet, presentation and publication of one paper (the registrant must be a co-author of the associated paper). </p>
 
-        <p><b>Author online registrations<b> include: access to the virtual conference platform, electronic proceedings, streamed live sessions, and presentation and publication of one paper (the registrant must be a co-author of the associated paper). </p>
+        <p><b>Author online registrations</b> include: access to the virtual conference platform, electronic proceedings, streamed live sessions, and presentation and publication of one paper (the registrant must be a co-author of the associated paper). </p>
 
-        <p><b>Conference in-person registrations<b> include: access to the conference venue, 3 daily coffee breaks, 1 lunch per day, 1 ticket for the welcome reception, 1 ticket for the banquet. </p>
+        <p><b>Conference in-person registrations</b> include: access to the conference venue, 3 daily coffee breaks, 1 lunch per day, 1 ticket for the welcome reception, 1 ticket for the banquet. </p>
 
-        <p><b>Conference online registrations<b> include: access to the virtual conference platform, electronic proceedings, and streamed live sessions. </p>
+        <p><b>Conference online registrations</b> include: access to the virtual conference platform, electronic proceedings, and streamed live sessions. </p>
 
         <h2>Registration Procedure</h2>
         <p>Registrations are handled only in electronic form. Only fully completed registration forms will be accepted. The registration fee is based on the date of the receipt of the registration form and the payment in full, in accordance with the deadlines mentioned above. The registration will only be confirmed upon receipt of payment in full. </p>
@@ -124,7 +124,7 @@
         <p><u><i>Cancellation Policies</i></u></p>
         <ul>
             <li>All cancellation requests must be received in writing to <a href="mailto:carmen.au@polyu.edu.hk">carmen.au@polyu.edu.hk</a> <b>by 14 November 2022.</b> No refund will be provided after this date. There will be <b>an administrative fee of US$ 90 </b>deducted from each cancellation.</li>
-            <li><b>Author registration is not refundable.<b></li>
+            <li><b>Author registration is not refundable.</b></li>
             <li>If payment is not received, registration will be automatically cancelled.</li>
         </ul>
 
