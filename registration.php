@@ -27,7 +27,7 @@
 
         <table border="1" style="border-collapse: collapse;">
             <tr>
-                <th style="text-align: center;" rowspan="3">Registration Type</th>
+                <th style="text-align: center;" rowspan="2">Registration Type</th>
                 <th style="text-align: center;">&nbsp; &nbsp;&nbsp; &nbsp;In Person&nbsp; &nbsp;&nbsp; &nbsp;</th>
                 <th style="text-align: center;">&nbsp; &nbsp;&nbsp; &nbsp;Online&nbsp; &nbsp;&nbsp; &nbsp;</th>
             </tr>
@@ -56,7 +56,7 @@
 
         <table border="1" style="border-collapse: collapse;">
             <tr>
-                <th style="text-align: center;" rowspan="3">Registration Type</th>
+                <th style="text-align: center;" rowspan="2">Registration Type</th>
                 <th style="text-align: center;">&nbsp; &nbsp;&nbsp; &nbsp;In Person&nbsp; &nbsp;&nbsp; &nbsp;</th>
                 <th style="text-align: center;">&nbsp; &nbsp;&nbsp; &nbsp;Online&nbsp; &nbsp;&nbsp; &nbsp;</th>
             </tr>
