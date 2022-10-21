@@ -91,11 +91,11 @@
             </tr>
         </table>
 
-        <p><b>Author in-person registrations</b> include: access to the conference venue, 3 daily coffee breaks, 1 lunch per day, 1 ticket for the welcome reception, 1 ticket for the banquet, presentation and publication of one paper (the registrant must be a co-author of the associated paper). </p>
+        <p><b>Author in-person registrations</b> include: access to the conference venue, 3 daily coffee breaks, 1 lunch per day, 1 ticket for the banquet, 1 ticket for the dinner, presentation and publication of one paper (the registrant must be a co-author of the associated paper).</p>
 
-        <p><b>Author online registrations</b> include: access to the virtual conference platform, electronic proceedings, streamed live sessions, and presentation and publication of one paper (the registrant must be a co-author of the associated paper). </p>
+        <p><b>Author online registrations</b> include: access to the virtual conference platform, electronic proceedings, streamed live sessions, and presentation and publication of one paper (the registrant must be a co-author of the associated paper).</p>
 
-        <p><b>Conference in-person registrations</b> include: access to the conference venue, 3 daily coffee breaks, 1 lunch per day,  1 ticket for the welcome reception, 1 ticket for the banquet. </p>
+        <p><b>Conference in-person registrations</b> include: access to the conference venue, 3 daily coffee breaks, 1 lunch per day, 1 ticket for the banquet, 1 ticket for the dinner.</p>
 
         <p><b>Conference online registrations</b> include: access to the virtual conference platform, electronic proceedings, and streamed live sessions. </p>
 
