@@ -7,7 +7,7 @@
     <div  class="ui-block-a" style="width:70%;height:100%;background-color:#ffffff;padding-left: 35px;padding-right:35px;padding-top: 15px;">
         <h2 style="text-align: left;">Keynote I: Understanding and Pushing the Sensing Limits of WiFi/4G/5G Signals</h2>
         <div style = "margin-top: 50px">
-            <div style="text-align: center;"><img style="text-align:center;width: 30%" src="./images/keynotes/DQZ.jpg"></div>
+            <div style="text-align: center;"><img style="text-align:center;width: 30%" src="./images/keynotes/DZ.jpg"></div>
             <p style="font-weight: bold;text-align: center;">Prof. Daqing Zhang</p>
             <p style="font-weight: bold;text-align: center;">Peking University and IP Paris</p>
             <!-- <p style="font-weight: bold;text-align: center;">Web: <a href="https://www.cs.purdue.edu/homes/bertino/ ">https://www.cs.purdue.edu/homes/bertino/</a></p> -->
