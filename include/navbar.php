@@ -68,9 +68,9 @@
             <a href="accepted-papers.php">List of Accepted Papers&nbsp;&nbsp;</a>
             <a href="panel.php">Panel&nbsp;&nbsp;</a>
             <a href="keynote_1.php">Keynote I&nbsp;&nbsp;</a>
-            <a href="keynote_2.php">Keynote II&nbsp;&nbsp;</a>
+            <a href="keynote_2.php">Keynote II&nbsp;&nbsp;</a> -->
             <a href="guide.php">Virtual Presentation Guidelines&nbsp;&nbsp;</a>
-            <a href="glance.php">Program at a Glance&nbsp;&nbsp;</a> -->
+            <a href="glance.php">Program at a Glance&nbsp;&nbsp;</a>
 <!--             <a href="tech.php">Technical Program&nbsp;&nbsp;</a>
             
             <a href="guide_chair.php">Guidelines for Session Chairs&nbsp;&nbsp;</a> -->
