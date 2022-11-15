@@ -44,7 +44,7 @@
       <div class="dropdown">
         <a style="border-top-width:0px;" class = "mybar-item dropbtn <?php if($mypage == "cf-papers.php" || $mypage == "cf-workshops.php" || $mypage == "cf-wkpaper.php" || $mypage == "cf-posters.php"){echo 'btn-selected-ui';}?>"href="#" >Calls</a>
         <div class="dropdown-content">
-          <a href="cf-papers.php">Call for Papers </a>
+          <a href="cf-papers.php">Call for Papers</a>
           <a href="cf-workshops.php">Call for Workshops</a>
 <!--           <a href="cf-wkpaper.php">Call for Workshop Papers</a>
           <a href="cf-posters.php">Call for Posters</a>
