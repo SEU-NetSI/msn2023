@@ -70,7 +70,7 @@
             <a href="keynote_1.php">Keynote I&nbsp;&nbsp;</a>
             <a href="keynote_2.php">Keynote II&nbsp;&nbsp;</a>
             <a href="keynote_3.php">Keynote III&nbsp;&nbsp;</a>
-            <!-- <a href="guide.php">Virtual Presentation Guidelines&nbsp;&nbsp;</a> -->
+            <a href="guide.php">Virtual Presentation Guidelines&nbsp;&nbsp;</a>
             <a href="glance.php">Program at a Glance&nbsp;&nbsp;</a>
 <!--             <a href="tech.php">Technical Program&nbsp;&nbsp;</a>
             
