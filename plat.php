@@ -54,7 +54,7 @@
             </ul>
 
             <p>Wishing you an enjoyable conference.</p>
-
+            <p>&nbsp;</p>
             <p>Sincerely,</p>
             <p>Giuseppe Anastasi, Weigang Wu</p>
             <p>IEEE&nbsp;MSN&nbsp;2022 TPC Chairs</p>
