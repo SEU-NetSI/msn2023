@@ -11,11 +11,9 @@
 		<p><strong>Chair:&nbsp; </strong>Prof. Huadong Ma, Beijing University of Posts and Telecommunications, China</p>
 		<p>&nbsp;</p>
 		<p><strong>Members:&nbsp; </strong>Prof. Daqing Zhang, Peking University and IP Paris</p>
-		<p>&nbsp;</p>
 		<p>Prof. Xinbing Wang, Shanghai Jiao Tong University, China</p>
-		<p>&nbsp;</p>
 		<p>Prof. John C.S. Lui, The Chinese University of Hong Kong,&nbsp; Hong Kong</p>
-		<p>&nbsp;</p>
+
 		<p>&nbsp;</p>
 		<p><strong>Biography</strong></p>
 		<p><strong>&nbsp;</strong></p>
