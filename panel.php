@@ -5,7 +5,7 @@
 
 <div data-role="content" style="text-align:left;padding-top: 0em;background-color:#e4e5e6">
 	<div  class="ui-block-a" style="width:65%;height:100%;background-color:#ffffff;padding-left: 35px;padding-right:35px;padding-top: 15px;">
-		<h3><span style="background-color:gray;color:white;">Panel: 15:45-17:15 15 December 2022 (Thursday)&nbsp;&nbsp;&nbsp;&nbsp;Room-1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></h3>
+
 		<h2><strong>Mobile sensing in AI age</strong></h2>
 		<p><strong>&nbsp;</strong></p>
 		<p><strong>Chair:&nbsp; </strong>Prof. Huadong Ma, Beijing University of Posts and Telecommunications, China</p>
