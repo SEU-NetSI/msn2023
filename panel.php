@@ -18,7 +18,7 @@
 		<p>&nbsp;</p>
 		<p><strong>Biography</strong></p>
 		<p><strong>&nbsp;</strong></p>
-		<img src="image002.jpg" style="float:left; margin: 5px;" />
+		<img src="images/panel/image002.jpg" style="float:left; margin: 5px;" />
 		<p>Dr. Huadong Ma is a Professor of School of Computer Science, and Vice-Chair of Academic Committee, Beijing University of Posts and Telecommunications (BUPT), China. He received his PhD degree in Computer Science from the Institute of Computing Technology, Chinese Academy of Science in 1995. He was Chief Scientist of the project &ldquo;Basic Research on the Architecture of Internet of Things&rdquo; supported by the National 973 Program of China from 2010 to 2013. His current research focuses on sensor networks and Internet of things, multimedia computing, and he has published over 400 papers in journals or Conferences and 5 books on these fields. As a co-author, he got the 2019 Prize Paper award of IEEE Transactions on Multimedia and the 2018 Best Paper Award from IEEE MultiMedia. He was awarded National Funds for Distinguished Young Scientists in 2009, the Natural Science Award of the Ministry of Education, China in 2017. He was/is an Editorial Board Member of the IEEE Transactions on Multimedia, IEEE Internet of Things Journal, and ACM Transactions on Internet of Things. He serves for Chair of ACM SIGMOBILE China, Director of CCF Technical Committee on IoT. He is IEEE/CCF/CAAI Fellow.</p>
 		<p><strong>&nbsp;</strong></p>
 		<p><strong>&nbsp;</strong></p>
