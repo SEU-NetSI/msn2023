@@ -7,7 +7,7 @@
         <h1 style="text-align: center">Program at a Glance</h1>
         <p style="text-align: center">Conference Program and Information Booklet is available<a href="files/booklet.pdf" target="_blank"> here</a>.</p>
 
-        <img style="width:100%;" src="images/program/program.jpg">
+        <img style="width:100%;" src="images/program/program2.jpg">
         <br><br><br>
     </div>
 <!--     <div  class="ui-block-b" style="width:30%;height:100%;background-color:#e4e5e6;padding:20px 15px 15px 15px">
