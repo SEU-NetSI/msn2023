@@ -6,6 +6,7 @@
     <div  class="ui-block-a" style="width:70%;height:100%;background-color:#ffffff;padding-left: 35px;padding-right:35px;padding-top: 15px;">
         <h1>Virtual Conference Platform</h1>
         <p>Registered attendees can access the MSN 2021 virtual platform, by visiting <a href="https://msn2022.info">https://msn2022.info</a>.</p>
+            <h1>Virtual Conference Platform Guidelines</h1>
             <p>Dear Participants/Presenters of&nbsp;MSN&nbsp;2022,</p>
             <p>&nbsp;</p>
             <p>We look forward to (virtually) seeing you at IEEE&nbsp;MSN&nbsp;2022.</p>
@@ -60,8 +61,6 @@
             <p>IEEE&nbsp;MSN&nbsp;2022 TPC Chairs</p>
             <p>&nbsp;</p>
 
-        <br><br><br><br><br><br><br><br><br><br><br><br>
-         <br><br><br><br><br><br><br><br><br><br><br><br>
     </div>
 
     <div  class="ui-block-b" style="width:30%;height:100%;background-color:#e4e5e6;padding:20px 15px 15px 15px">
