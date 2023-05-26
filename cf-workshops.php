@@ -9,7 +9,8 @@
         <p>December 14-16, 2023, Nanjing, China</p></b>
         <a href="https://ieee-msn.org/2023">https://ieee-msn.org/2023</a>
         <h1>Call for Workshops</h1>
-        <p>TBD</p>
+ 
+<p>Workshop proposals should be submitted (in PDF format) no later than Sep.15,2023 by e-mail to the MSN 2023 Worshop Co-chairs(see email id below),with "MSN 2023 Workshop Proposal" in the subject.Send your proposals to Haipeng Dai at haipengdai@nju.edu.cn or Tian Wang at tianwang@bnu.edu.cn</a>.</p>
 
         
 
@@ -23,7 +24,11 @@
         </ol>
 
         <h2>Important Dates</h2>
-       <p>TBD
+       <ul data-role="listview" data-inset="true" data-theme="a" data-content-theme="a" class="datetbl">
+		    <?php add_dateitem("Sep.15,2023", "Workshop Proposal submitted Due"); ?>
+
+		</ul>
+
 
 
         <h2>Workshop co-Chairs</h2>

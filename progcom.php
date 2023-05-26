@@ -1,10 +1,10 @@
 <?php
-    $page_title="Tracks and Topics & Technical Program Committee";
+    $page_title="Technical Program Committee";
     include("include/header.php");
 ?>
 <div data-role="content" style="text-align:left;padding-top: 0em;background-color:#e4e5e6">
   <div  class="ui-block-a" style="width:70%;height:100%;background-color:#ffffff;padding-left: 35px;padding-right:35px;padding-top: 15px;">
-    <h1 style="color: black">Tracks and Topics & Technical Program Committee</h1>
+    <h1 style="color: black">Technical Program Committee</h1>
 
     <ul data-role="listview" data-inset="true" data-theme="a" data-content-theme="a" class="tbl">
       
