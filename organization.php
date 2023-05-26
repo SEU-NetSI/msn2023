@@ -19,6 +19,11 @@
       add_listitem("Zhen Ling", "Southeast University, China", "");
       ?>
 
+      <li data-role="list-divider">Panel Chairs</li>
+      <?php
+      add_listitem("Lei Xie", "Nanjing University, China","");
+
+      ?>
 
 
       <li data-role="list-divider">Workshop co-Chair</li>
@@ -35,47 +40,45 @@
       add_listitem("Wei Xi", "Xi'an Jiaotong University, China", "");
       add_listitem("Feng Li", "Shangdong University, China","");
       ?>
-
-      <li data-role="list-divider">Mobile & Wireless Sensing and NetworkingTrack Chairs</li>
+      <li data-role="list-divider">Publication Chairs</li>
       <?php
-      add_listitem("Jiliang Wang", "Tsinghua University, China","");
+      add_listitem("Dan Wang", "The Hong Kong Polytechnic University, HK","");
       add_listitem("Debashri Roy", "University of Texas Arlington","");
       ?>
 
-      <li data-role="list-divider">Web Chair</li>
+
+      <li data-role="list-divider">Web Co-Chair</li>
       <?php
       add_listitem("Feng Shan", "Southeast University, China","");
+      add_listitem("Zhenjiang Li", "City University of Hong Kong, HK","");
       ?>
 
-      <li data-role="list-divider">Edge Computing, IoT and Digital Twins Track Chair</li>
-      <?php
-      add_listitem("Xu Chen", "Sun Yat-sen University, China","");
-      add_listitem("Posco Tso", "Loughborough University, UK","");
-      ?>
 
-      <li data-role="list-divider">Security, Privacy, Trust, and Blockchain Track Chair</li>
-      <?php
-      add_listitem("Cliff C. Zou", "University of Central Florida, USA", "");
-      add_listitem("Xiaoyu Ji", "Zhejiang University, China", "");
-      ?>
+
+
+
       
-      <li data-role="list-divider">Big Data and AI Track Chairs</li>
+
+
+
+      <li data-role="list-divider">Local Organization Chairs</li>
       <?php
-      add_listitem("Tingjian Ge", "University of Massachusetts Lowell, USA","");
-      add_listitem("Tao Xiang", "Chongqing University, China","");
+      add_listitem("Weiwei Wu", "Southeast University, China","");
+      
       ?>
 
-      <li data-role="list-divider">Systems, Tools and Testbed Track Chairs</li>
+      <li data-role="list-divider">Financial Chairs</li>
       <?php
-      add_listitem("Kui Wu", "University of Victoria, Canada", "");
-      add_listitem("Xiaolong Zheng", "Beijing University of Posts and Telecommunications, China", "");
+      add_listitem("Carmen Au", "The Hong Kong Polytechnic University, HK","");
+      
       ?>
 
-      <li data-role="list-divider">Smart Cities, Metaverse and Applications Track Chairs</li>
+     <li data-role="list-divider">Steering Committee Co-Chairs</li>
       <?php
-      add_listitem("Sriram Chellappan", "University of South Florida, USA", "");
-      add_listitem("Zichuan Xu", "Dalian University of Technology, China", "");
+      add_listitem("Jiannong Cao", "The Hong Kong Polytechnic University, HK","");
+      add_listitem("Xiaohua Jia", "City University of Hong Kong , HK","");
       ?>
+
     </ul>
   </div>
   <div  class="ui-block-b" style="width:30%;height:100%;background-color:#e4e5e6;padding:20px 15px 15px 15px">
