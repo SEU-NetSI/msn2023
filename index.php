@@ -26,7 +26,7 @@
 	      <ul>
 	        <li>Mobile & Wireless Sensing and Networking</li>
 	        <li>Edge Computing, IoT and Digital Twins</li>
-	        <li>Security, Privacy, Trust, and Blockchain</li>
+	        <li>Security, Privacy, Trust and Blockchain</li>
 	        <li>Big Data and AI</li>
 	        <li>Systems, Tools and Testbed</li>
 	        <li>Applications in Smart Cities, Healthcare and Other Areas</li>
@@ -47,7 +47,7 @@
 	        <li>Systems, Tools, Experiments & Applications</li>
 	        <li>Mobile & Wireless Sensing and Networking</li>
 	        <li>Edge Computing and IoT</li>
-	        <li>Network Security, Privacy, Trust, and Blockchain </li>
+	        <li>Network Security, Privacy, Trust and Blockchain </li>
 	        <li>Big Data and AI in Networking </li>
 	 	 </ul>
 
