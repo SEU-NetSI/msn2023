@@ -19,14 +19,14 @@
       add_listitem("Zhen Ling", "Southeast University, China", "");
       ?>
 
-      <li data-role="list-divider">Panel Chairs</li>
+      <li data-role="list-divider">Panel Chair</li>
       <?php
       add_listitem("Lei Xie", "Nanjing University, China","");
 
       ?>
 
 
-      <li data-role="list-divider">Workshop co-Chair</li>
+      <li data-role="list-divider">Workshop co-Chairs</li>
       <?php
       add_listitem("Haipeng Dai", "Nanjing University, China", "");
      add_listitem("Tian Wang", " Beijing Normal University, China", "");
@@ -47,7 +47,7 @@
       ?>
 
 
-      <li data-role="list-divider">Web Co-Chair</li>
+      <li data-role="list-divider">Web Co-Chairs</li>
       <?php
       add_listitem("Feng Shan", "Southeast University, China","");
       add_listitem("Zhenjiang Li", "City University of Hong Kong, HK","");
@@ -61,13 +61,13 @@
 
 
 
-      <li data-role="list-divider">Local Organization Chairs</li>
+      <li data-role="list-divider">Local Organization Chair</li>
       <?php
       add_listitem("Weiwei Wu", "Southeast University, China","");
       
       ?>
 
-      <li data-role="list-divider">Financial Chairs</li>
+      <li data-role="list-divider">Financial Chair</li>
       <?php
       add_listitem("Carmen Au", "The Hong Kong Polytechnic University, HK","");
       
