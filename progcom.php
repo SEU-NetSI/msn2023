@@ -42,8 +42,8 @@
 
       <li data-role="list-divider">Smart Cities, Metaverse and Applications Track Chairs</li>
       <?php
-      add_listitem("Sriram Chellappan", "University of South Florida, USA", "");
       add_listitem("Zichuan Xu", "Dalian University of Technology, China", "");
+      add_listitem("Rhongho Jang", "Wayne State University, USA", "");
       ?>
 
     </ul>

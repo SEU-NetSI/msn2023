@@ -12,6 +12,8 @@
                 <p>TBD</b>
                     
 
+	 	<h2>Workshop Proposal</h2>
+	 	<p>Workshop proposals should be submitted (in PDF format) no later than Sep.15,2023 by e-mail to the MSN 2023 Worshop Co-chairs(see email id below),with "MSN 2023 Workshop Proposal" in the subject.Send your proposals to Haipeng Dai at haipengdai@nju.edu.cn or Tian Wang at tianwang@bnu.edu.cn</a>.</p>
 
 
 

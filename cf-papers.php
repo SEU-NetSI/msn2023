@@ -7,7 +7,7 @@
 	<div  class="ui-block-a" style="width:70%;height:100%;background-color:#ffffff;padding-left: 35px;padding-right:35px;padding-top: 15px;">
 		<b><h2>The 19th International Conference on Mobility, Sensing and Networking (MSN 2023)</h2>
 		<p>December 14-16, 2023 · Nanjing, China.</p></b>
-		<a href="https://ieee-msn.org/2023">https://ieee-msn.org/2023</a>
+		<a href="TBD">https://ieee-msn.org/2023</a>
 
 		<h1>Call for Papers</h1>
 		<p>MSN 2023 provides a forum for academic researchers and industry practitioners to present research progresses, exchange new ideas, and identify future directions in the field of Mobility, Sensing and Networking. MSN 2023 is technically sponsored by IEEE.</p>
@@ -35,7 +35,7 @@
 	 	<p>Submitted manuscripts must be prepared according to IEEE Computer Society Proceedings Format (double column, 10pt font, letter paper) and submitted in the PDF format. The manuscript submitted for review should be no longer than 8 pages. After the manuscript is accepted, the camera-ready paper may have up to 10 pages, subject to an additional fee per extra page. Manuscripts should be submitted to one of the research tracks. Submitted manuscripts must not contain previously published material or be under consideration for publication in another conference or journal at the time of submission. The accepted papers will be included in IEEE Xplore.</p> -->
 
 	 	<h2>Paper Submission and Publication</h2>
-	 	<p>Details of paper submission and publication can be found <a href="https://ieee-msn.org/2022/submission.php">here</a>.</p>
+	 	<p>Details of paper submission and publication can be found <a href="submission.php">here</a>.</p>
 
 		
 		<h2 style="color: black">Organization Committee</h2>
@@ -52,7 +52,7 @@
 		    <?php add_dateitem("Jul 20, 2023", "Paper Submission Due"); ?>
 		    
     		<?php add_dateitem("Oct. 1, 2023", "Author Notification"); ?>
-    		<?php add_dateitem("Sep 30, 2022", "Author Notification</span>"); ?>
+    	
 		    <?php add_dateitem("Oct 25, 2023", "Camera-Ready Due"); ?>
 		    <?php add_dateitem("Dec 14-16, 2023", "Conference Date"); ?>  
 		</ul>
