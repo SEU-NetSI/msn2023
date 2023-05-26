@@ -2,8 +2,8 @@
 
 <?php
   
-  add_dateitem("April 3rd, 2022", "Web site is up.");
-  add_dateitem("April 12, 2022", "Call for Papers published.");
+  add_dateitem("May 26, 2023", "Web site is up.");
+  add_dateitem("June 12, 2023", "Call for Papers published.");
   // add_dateitem("April 6, 2020", "<a href=\"cf-workshops.php\">Call for Workshops</a> published. ");
   // add_dateitem("June 15, 2019", "CFP and call for workshops (CFW) out");
 ?>

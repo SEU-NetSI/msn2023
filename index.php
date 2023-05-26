@@ -1,19 +1,17 @@
 <?php
-    $page_title="2022 MSN";
+    $page_title="2023 MSN";
     include("include/header.php");
 ?>
 
 <div data-role="content" style="text-align:left;padding-top: 0em;background-color:#e4e5e6">
 	<div  class="ui-block-a" style="width:70%;height:100%;background-color:#ffffff;padding-left: 35px;padding-right:35px;padding-top: 15px;">
 
-		<!-- <p style="font-size: 18px"><span style="color:red;"><i><b>Considering the COVID-19 virus situation, we decide to organize MSN 2022 in a hybrid format of virtual and in-person event.</b></i></span> -->
+		<!-- <p style="font-size: 18px"><span style="color:red;"><i><b>Considering the COVID-19 virus situation, we decide to organize MSN 2023 in a hybrid format of virtual and in-person event.</b></i></span> -->
 
-		<p style="font-size: 18px"><span style="color:red;"><i><b>Please be informed that, the organization committee have decided to change the format of MSN2022 from hybrid to fully online.</b></i></span>
-		<p style="font-size: 18px"><span style="color:red;"><i><b>Such a change has been decided based on careful consideration of the COVID-19 status at Guangzhou, the city of conference venue, and the registration types of authors.</b></i></span> 
-		<p style="font-size: 18px"><span style="color:red;"><i><b>The virtual conference system (<a href="https://msn2022.info/">https://msn2022.info</a>) is still under construction and will be ready in two or three days. Accordingly, the deadline for uploading video/slides needs to be extended. The new deadline is Dec 04 (Sunday).</b></i></span>
+
 			
 		<h1>Call for Papers</h1>
-		<p>MSN 2022 provides a forum for academic researchers and industry practitioners to present research progresses, exchange new ideas, and identify future directions in the field of Mobility, Sensing and Networking. MSN 2022 is technically sponsored by IEEE.</p>
+		<p>MSN 2023 provides a forum for academic researchers and industry practitioners to present research progresses, exchange new ideas, and identify future directions in the field of Mobility, Sensing and Networking. MSN 2023 is technically sponsored by IEEE.</p>
 
        	<h2>Scope and Objectives</h2>
 
@@ -21,7 +19,7 @@
 
         <p>Recent years have witnessed the increasing convergence of algorithms, protocols, and applications for mobility, sensing and networking in a range of applications including connected vehicles, smart cities, smart manufacturing, smart healthcare, smart agriculture, and digital twins. </p>
 
-        <p>Building on the past 17 years of success, the 18th International Conference on Mobility, Sensing and Networking (MSN 2022) provides a forum for academic researchers and industry practitioners to exchange new research ideas, present their progress, and identify future directions in the field of mobility, sensing and networking.</p>
+        <p>Building on the past 18 years of success, the 19th International Conference on Mobility, Sensing and Networking (MSN 2023) provides a forum for academic researchers and industry practitioners to exchange new research ideas, present their progress, and identify future directions in the field of mobility, sensing and networking.</p>
 
         <p>The conference solicits submissions from all research areas related to mobility, sensing and networking, as well as their corresponding systems and applications. Topics of interests are covered by the following tracks:</p>
 

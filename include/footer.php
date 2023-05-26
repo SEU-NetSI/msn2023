@@ -31,7 +31,7 @@
       </ul>
       </div> -->
       <p style="font-size:1em;color: white;">
-        Copyright © 2022 International Conference on Mobility, Sensing and Networking
+        Copyright © 2023 International Conference on Mobility, Sensing and Networking
       </p>
     </div>
 

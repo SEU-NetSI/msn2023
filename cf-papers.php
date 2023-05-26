@@ -5,12 +5,12 @@
 
 <div data-role="content" style="text-align:left;padding-top: 0em;background-color:#e4e5e6">
 	<div  class="ui-block-a" style="width:70%;height:100%;background-color:#ffffff;padding-left: 35px;padding-right:35px;padding-top: 15px;">
-		<b><h2>The 18th International Conference on Mobility, Sensing and Networking (MSN 2022)</h2>
-		<p>December 14-16, 2022 · Guangzhou, China.</p></b>
-		<a href="https://ieee-msn.org/2021">https://ieee-msn.org/2022</a>
+		<b><h2>The 19th International Conference on Mobility, Sensing and Networking (MSN 2023)</h2>
+		<p>December 14-16, 2023 · Nanjing, China.</p></b>
+		<a href="https://ieee-msn.org/2023">https://ieee-msn.org/2023</a>
 
 		<h1>Call for Papers</h1>
-		<p>MSN 2022 provides a forum for academic researchers and industry practitioners to present research progresses, exchange new ideas, and identify future directions in the field of Mobility, Sensing and Networking. MSN 2022 is technically sponsored by IEEE.</p>
+		<p>MSN 2023 provides a forum for academic researchers and industry practitioners to present research progresses, exchange new ideas, and identify future directions in the field of Mobility, Sensing and Networking. MSN 2023 is technically sponsored by IEEE.</p>
 
        	<h2>Scope and Objectives</h2>
 
@@ -18,7 +18,7 @@
 
         <p>Recent years have witnessed the increasing convergence of algorithms, protocols, and applications for mobility, sensing and networking in a range of applications including connected vehicles, smart cities, smart manufacturing, smart healthcare, smart agriculture, and digital twins. </p>
 
-        <p>Building on the past 17 years of success, the 18th International Conference on Mobility, Sensing and Networking (MSN 2022) provides a forum for academic researchers and industry practitioners to exchange new research ideas, present their progress, and identify future directions in the field of mobility, sensing and networking.</p>
+        <p>Building on the past 18 years of success, the 19th International Conference on Mobility, Sensing and Networking (MSN 2023) provides a forum for academic researchers and industry practitioners to exchange new research ideas, present their progress, and identify future directions in the field of mobility, sensing and networking.</p>
 
         <p>The conference solicits submissions from all research areas related to mobility, sensing and networking, as well as their corresponding systems and applications. Topics of interests are covered by the following tracks:</p>
 
@@ -49,13 +49,12 @@
 		<h2>Important Dates</h2>
 
 		<ul data-role="listview" data-inset="true" data-theme="a" data-content-theme="a" class="datetbl">
-		    <?php add_dateitem("<del>Jul 1, 2022</del>", "<del>Paper Submission Due</del>"); ?>
-		    <?php add_dateitem("<del><span style=\"color: red;font-weight: bold\">July 15, 2022</span></del>", "<del><span style=\"color: red;font-weight: bold\">Paper Submission Due(extended)</span></del>"); ?>
-		    <?php add_dateitem("<span style=\"color: red;font-weight: bold\">July 31 (AoE), 2022</span>", "<span style=\"color: red;font-weight: bold\">Paper Submission Due(Firm)</span>"); ?>
-    		<?php add_dateitem("<del><span style=\"color: red;font-weight: bold\">Sep 15, 2022</span></del>", "<del><span style=\"color: red;font-weight: bold\">Author Notification</span></del>"); ?>
-    		<?php add_dateitem("<span style=\"color: red;font-weight: bold\">Sep 30, 2022</span>", "<span style=\"color: red;font-weight: bold\">Author Notification</span>"); ?>
-		    <?php add_dateitem("Oct 15, 2022", "Camera-Ready Due"); ?>
-		    <?php add_dateitem("Dec 14-16, 2022", "Conference Date"); ?>  
+		    <?php add_dateitem("Jul 20, 2023", "Paper Submission Due"); ?>
+		    
+    		<?php add_dateitem("Oct. 1, 2023", "Author Notification"); ?>
+    		<?php add_dateitem("Sep 30, 2022", "Author Notification</span>"); ?>
+		    <?php add_dateitem("Oct 25, 2023", "Camera-Ready Due"); ?>
+		    <?php add_dateitem("Dec 14-16, 2023", "Conference Date"); ?>  
 		</ul>
 
 		<br><br>

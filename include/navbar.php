@@ -24,10 +24,10 @@
       </div>
 <div data-role="content" class="topbar" style="background-color: white">
   <div class="ui-block-a" style="width:20%;height:100%;">
-    <a href="index.php" style="margin-left: 1em;"><img style="width:80%;margin-top: 1em;"src="images/resources/logo.png"  alt="MSN 2021" /></a>
+    <a href="index.php" style="margin-left: 1em;"><img style="width:80%;margin-top: 1em;"src="images/resources/logo.png"  alt="MSN 2023" /></a>
   </div>
   <div class="ui-block-b" style="width:55%;height:100%; font-weight: bold;font-size:1.5em;margin-top: 13px">
-    The 18th International Conference on Mobility, Sensing and Networking (MSN 2022)<br><span style="font-weight: normal;font-size:0.8em">December 14-16, 2022 · Guangzhou, China (Fully Online)</span>
+    The 19th International Conference on Mobility, Sensing and Networking (MSN 2023)<br><span style="font-weight: normal;font-size:0.8em">December 14-16, 2023 · Nanjing, China </span>
   </div>
   <div class="ui-block-b" style="width:25%;height:100%; text-align: center">
     <span style="font-weight: bold">Technically Co-sponsored by IEEE</span>
@@ -39,8 +39,8 @@
 
 <div data-role="navbar" style="width:100%;max-width: 1200px;">
   <ul class="mybar">
-    <li style="width:15%;"><a href="index.php" style="border-top-width:0px;" class="mybar-item <?php if($mypage == "index.php"){echo 'btn-selected-ui';}?>" >Home</a></li>
-    <li style="width:17%;">
+    <li style="width:20%;"><a href="index.php" style="border-top-width:0px;" class="mybar-item <?php if($mypage == "index.php"){echo 'btn-selected-ui';}?>" >Home</a></li>
+    <li style="width:20%;">
       <div class="dropdown">
         <a style="border-top-width:0px;" class = "mybar-item dropbtn <?php if($mypage == "cf-papers.php" || $mypage == "cf-workshops.php" || $mypage == "cf-wkpaper.php" || $mypage == "cf-posters.php"){echo 'btn-selected-ui';}?>"href="#" >Calls</a>
         <div class="dropdown-content">
@@ -52,7 +52,7 @@
         </div>
       </div>
     </li>
-    <li style="width:17%;">
+    <li style="width:20%;">
       <div class="dropdown">
         <a class = "mybar-item dropbtn <?php if ($mypage == "organization.php" || $mypage == "progcom.php") echo('btn-selected-ui') ?>" href="#">Committees</a>
           <div class="dropdown-content">
@@ -60,25 +60,23 @@
             <a href="progcom.php">Technical Program Committee</a>
           </div>
     </li>
-    <li style="width:17%;">
-      <div class="dropdown">
-          <a class = "mybar-item dropbtn <?php if($mypage == "keynote_1.php" ||$mypage == "keynote_2.php"||$mypage == "keynote_3.php"|| $mypage == "workshop.php" || $mypage == "panel.php" || $mypage == "accepted-papers.php" || $mypage == "guide.php" || $mypage == "glance.php" || $mypage == "tech.php" || $mypage == "guide_chair.php" || $mypage == "tutorials.php"){echo 'btn-selected-ui';}?>"href="#" >Program</a>
+    <li style="width:20%;">
+     <div class="dropdown">
+                   <a class = "mybar-item dropbtn <?php if($mypage == "keynote_2.php"||$mypage == "keynote_3.php"|| $mypage == "workshop.php" || $mypage == "Program.php" || $mypage == "accepted-papers.php" || $mypage == "guide.php" || $mypage == "glance.php" || $mypage == "tech.php" || $mypage == "guide_chair.php" || $mypage == "tutorials.php"){echo 'btn-selected-ui';}?>"href="#" >Program</a>
           <div class="dropdown-content">
 <!--             <a href="tutorials.php">Tutorials</a>
-            <a href="accepted-papers.php">List of Accepted Papers&nbsp;&nbsp;</a> -->
-            <a href="panel.php">Panel&nbsp;&nbsp;</a>
-            <a href="keynote_1.php">Keynote I&nbsp;&nbsp;</a>
-            <a href="keynote_2.php">Keynote II&nbsp;&nbsp;</a>
-            <a href="keynote_3.php">Keynote III&nbsp;&nbsp;</a>
-            <a href="guide.php">Virtual Presentation Guidelines&nbsp;&nbsp;</a>
-            <a href="glance.php">Program at a Glance&nbsp;&nbsp;</a>
+          <a href="accepted-papers.php">List of Accepted Papers&nbsp;&nbsp;</a> -->
+            <a href="Program.php">Program&nbsp;&nbsp;</a>
+            
+
+
 <!--             <a href="tech.php">Technical Program&nbsp;&nbsp;</a>
             
             <a href="guide_chair.php">Guidelines for Session Chairs&nbsp;&nbsp;</a> -->
           </div>
       </div>
     </li>
-    <li style="width:17%;">
+    <li style="width:20%;">
       <div class="dropdown">
         <a class = "mybar-item dropbtn <?php if($mypage == "workshops.php"){echo 'btn-selected-ui';}?>"href=# >Workshops</a>
         <div class="dropdown-content">
@@ -88,9 +86,9 @@
         </div>
       </div>
     </li>
-    <li style="width:17%;">
+
       <div class="dropdown">
-        <a class = "mybar-item dropbtn <?php if($mypage == "plat.php" || $mypage == "acco.php"){echo 'btn-selected-ui';}?>"href="plat.php" >Virtual Conference Platform</a>
+    
         <div class="dropdown-content">
 <!--           <a href="venue.php">Conference Venue</a>
           <a href="acco.php">Accommodation</a> -->
@@ -104,7 +102,7 @@
         <div class="swiper-container" style="height:auto;width: auto">
           <div class="swiper-wrapper">
             <div class="swiper-slide" style="width: 100%">
-              <img style="width: 100%"src="images/guangzhou/gz.jpg">
+              <img style="width: 100%"src="images/nanjing/nj.jpg">
             </div> 
 <!--             <div class="swiper-slide">
               <img style="width: 100%"src="images/japan/tower.jpg">
