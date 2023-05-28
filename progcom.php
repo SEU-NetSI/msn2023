@@ -43,7 +43,7 @@
       <li data-role="list-divider">Smart Cities, Metaverse and Applications Track Chairs</li>
       <?php
       add_listitem("Zichuan Xu", "Dalian University of Technology, China", "");
-      add_listitem("Rhongho Jang", "Wayne State University, USA", "");
+      add_listitem("Yue Zhang", "Drexel University, USA", "");
       ?>
 
     </ul>
