@@ -5,8 +5,8 @@
 <div data-role="content" style="text-align:left;padding-top: 0em;background-color:#e4e5e6">
   <div  class="ui-block-a" style="width:70%;height:100%;background-color:#ffffff;padding-left: 50px;padding-right:80px;padding-top: 15px;">
     <h1 style="color: black">Paper Submission and Publication</h1>
-    <p>TBD</p>
-
+    <p>Submitted manuscripts must be prepared according to IEEE Computer Society Proceedings Format (double column, 10pt font, letter paper) and submitted in the PDF format. The manuscript submitted for review should be no longer than 8 pages. After the manuscript is accepted, the camera-ready paper may have up to 10 pages, subject to an additional fee per extra page. Manuscripts should be submitted to one of the research tracks. Submitted manuscripts must not contain previously published material or be under consideration for publication in another conference or journal at the time of submission.</p>
+<p> All submissions to MSN 2023 must be uploaded to <a href="https://easychair.org/conferences/?conf=msn2023">EasyChair</a>.
    
     <br><br><br><br><br><br><br><br><br><br><br><br>
 
