@@ -15,8 +15,7 @@
       add_listitem("Debashri Roy", "University of Texas Arlington,USA", "");
 
             add_listitem("<b>TPC Members:</b>","","");
-            add_listitem("Jiliang Wang", "Tsinghua University, China", "");
-add_listitem("Debashri Roy", "University of Texas Arlington, USA", "");
+
             add_listitem("Xiangyu Xu", "Southeast University, China", "");
             add_listitem("Haipeng Dai", "Nanjing University, China", "");
             add_listitem("Chi Lin", "Dalian University of Technology, China", "");
