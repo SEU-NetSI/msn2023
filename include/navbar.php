@@ -12,8 +12,7 @@
      $policyItems = array("anti-harassment.php");
      
 ?>
-  
-      <div data-role="navbar" data-grid="d" style="width:100%;max-width: 1200px;background-color: gray">
+  <div data-role="navbar" data-grid="d" style="width:100%;max-width: 1200px;background-color: gray">
         <ul class="mymenu">
 <!--           <li class="mymenu-item firstleaf"><a href="http://www.ieee.org" >IEEE.org</a></li>
           <li class="mymenu-item"><a href="http://ieeexplore.ieee.org/" >IEEE <em>Xplore</em> Digital Library</a></li>
@@ -22,6 +21,7 @@
           <li class="mymenu-item"><a href="http://www.ieee.org/sitemap.html?WT.mc_id=mn_smap" >More IEEE sites</a></li> -->
       </ul>
       </div>
+
 <div data-role="content" class="topbar" style="background-color: white">
   <div class="ui-block-a" style="width:20%;height:100%;">
     <a href="index.php" style="margin-left: 1em;"><img style="width:80%;margin-top: 1em;"src="images/resources/logo.png"  alt="MSN 2023" /></a>
@@ -30,9 +30,7 @@
     The 19th International Conference on Mobility, Sensing and Networking (MSN 2023)<br><span style="font-weight: normal;font-size:0.8em">December 14-16, 2023 · Nanjing, China </span>
   </div>
   <div class="ui-block-b" style="width:25%;height:100%; text-align: center">
-    <span style="font-weight: bold">Technically Co-sponsored by IEEE</span>
-    <a href="https://www.ieee.org/" style="margin-right: 1em"><img style="width:50%;margin-top: 2px" src="images/resources/ieee_mb_blue.png" alt="IEEE" /></a><br>
-    <a href="https://www.computer.org/" style="margin-right: 1em"><img style="width:50%;margin-top: 2px" src="images/resources/IEEE-CS_LogoTM-orange.png" alt="IEEE CS" /></a>
+   
   </div>
 </div>
 
