@@ -166,7 +166,7 @@ add_listitem("Sanchuan Chen", "Fordham University, USA", "");
             add_listitem("Xiaokuan Zhang", "George Mason University, USA", "");
             add_listitem("Guoxing Chen", "Shanghai Jiao Tong University, China", "");
             add_listitem("Ammar Hawbani", "University of Science and Technology of China, China", "");
-            add_listitem("Bryan Pearson", "Sandia National Laboratories, USA", "");
+            
             add_listitem("Ronny Hajoon Ko", "The Ohio State University, USA", "");
             add_listitem("Ning Zhang", "Washington University in St. Louis, USA", "");
             add_listitem("Song Li", "Zhejiang University, China", "");
