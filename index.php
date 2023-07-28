@@ -29,7 +29,7 @@
 	        <li>Security, Privacy, Trust and Blockchain</li>
 	        <li>Big Data and AI</li>
 	        <li>Systems, Tools and Testbed</li>
-	        <li>Applications in Smart Cities, Healthcare and Other Areas</li>
+	        <li>Smart Cities, Metaverse and Applications</li>
 	 	 </ul>
 <!-- 		<p style="font-size: 18px"><span><i><b>The conference virtual platform is available at <a href="https://msn2021.info">https://msn2021.info</a>. Authors of accepted please read the Virtual Presentation Guidelines and upload your video and slides by 25 November 2021.</b></i></span>
 
