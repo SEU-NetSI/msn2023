@@ -43,7 +43,7 @@
       <li data-role="list-divider">Publication Chairs</li>
       <?php
       add_listitem("Dan Wang", "The Hong Kong Polytechnic University, HK","");
-      add_listitem("Debashri Roy", "University of Texas Arlington","");
+     
       ?>
 
 
