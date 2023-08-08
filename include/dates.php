@@ -2,6 +2,7 @@
         <?php add_dateitem("<del>Jul 20, 2023<del>", "<del>Paper Submission Due<del>"); ?>
     <?php add_dateitem("<del><span style=\"color: red;font-weight: bold\">Aug 5, 2023</span><del>", "<del><span style=\"color: red;font-weight: bold\">Paper Submission Due (extended)</span><del>"); ?>
 
+<?php add_dateitem("Sep.15, 2023", "Workshop Proposal Submission Due"); ?>
     <?php add_dateitem("Oct. 1, 2023", "Author Notification"); ?>
 
     <?php add_dateitem("Oct 25, 2023", "Camera-Ready Due"); ?>
