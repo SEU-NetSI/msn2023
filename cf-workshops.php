@@ -31,7 +31,7 @@
 
           <?php
             add_listitem_email("Haipeng Dai", "Nanjing University, China","");
-            add_listitem_email("Tian Wang", "Beijing Normal University, China","");
+            add_listitem("Tian Wang", "Beijing Normal University, China","");
           ?>
         </ul>
         <br>
