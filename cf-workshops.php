@@ -41,7 +41,7 @@
             <?php
             include("include/news.php")
             ?>
-        <h1>Important Days</h1>
+        <h1>Important Dates</h1>
             <?php
             include("include/dates.php")
             ?>
