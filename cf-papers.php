@@ -10,7 +10,7 @@
 		<a href="TBD">https://ieee-msn.org/2023</a>
 
 		<h1>Call for Papers</h1>
-		<p>MSN 2023 provides a forum for academic researchers and industry practitioners to present research progresses, exchange new ideas, and identify future directions in the field of Mobility, Sensing and Networking. </p>
+		<p>MSN 2023 provides a forum for academic researchers and industry practitioners to present research progresses, exchange new ideas, and identify future directions in the field of Mobility, Sensing and Networking. MSN 2023 is technically sponsored by IEEE.</p>
 
        	<h2>Scope and Objectives</h2>
 
