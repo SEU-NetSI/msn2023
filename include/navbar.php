@@ -30,7 +30,9 @@
     The 19th International Conference on Mobility, Sensing and Networking (MSN 2023)<br><span style="font-weight: normal;font-size:0.8em">December 14-16, 2023 · Nanjing, China </span>
   </div>
   <div class="ui-block-b" style="width:25%;height:100%; text-align: center">
-   
+    <span style="font-weight: bold">Technically Co-sponsored by IEEE</span>
+    <a href="https://www.ieee.org/" style="margin-right: 1em"><img style="width:50%;margin-top: 2px" src="images/resources/ieee_mb_blue.png" alt="IEEE" /></a><br>
+    <a href="https://www.computer.org/" style="margin-right: 1em"><img style="width:50%;margin-top: 2px" src="images/resources/IEEE-CS_LogoTM-orange.png" alt="IEEE CS" /></a>
   </div>
 </div>
 
