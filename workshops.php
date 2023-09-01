@@ -12,6 +12,10 @@
             <p><b>Fifth International Workshop on Network Softwarization Techniques for IoT Application (SoftIoT 2023)</b>
                     <br><br><b>Link:</b> <a href="https://sites.google.com/view/softiot2023/home">https://sites.google.com/view/softiot2023/home</a>
                 </p>
+		     <li>
+                <p><b>The 5th International Workshop on Network Meets Intelligent Computations (NMIC 2023)</b>
+                    <br><br><b>Link:</b> <a href="http://106.53.126.81/nmic2023">http://106.53.126.81/nmic2023</a>
+                </p>
                     
 
 	 	
