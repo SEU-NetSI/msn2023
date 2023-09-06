@@ -17,7 +17,10 @@
                 <p><b>The 5th International Workshop on Network Meets Intelligent Computations (NMIC 2023)</b>
                     <br><br><b>Link:</b> <a href="http://106.53.126.81/nmic2023">http://106.53.126.81/nmic2023</a>
                 </p>
-                    
+                <li>
+                <p><b>The Fourth International Workshop on Artificial Intelligence Applications in Internet of Things (AI2OT)</b>
+                    <br><br><b>Link:</b> <a href="http://vlab.csu.edu.cn/AI2OT2023/">http://vlab.csu.edu.cn/AI2OT2023/</a>
+                </p> 
 
 	 	
 
