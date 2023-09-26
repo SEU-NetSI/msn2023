@@ -9,17 +9,22 @@
 
           <ul>
             <li>
-            <p><b>Fifth International Workshop on Network Softwarization Techniques for IoT Application (SoftIoT 2023)</b>
+            <p><b>The Fifth International Workshop on Network Softwarization Techniques for IoT Application (SoftIoT 2023)</b>
                     <br><br><b>Link:</b> <a href="https://sites.google.com/view/softiot2023/home">https://sites.google.com/view/softiot2023/home</a>
                 </p>
 		     <li>
-                <p><b>The 5th International Workshop on Network Meets Intelligent Computations (NMIC 2023)</b>
+                <p><b>The Fifth International Workshop on Network Meets Intelligent Computations (NMIC 2023)</b>
                     <br><br><b>Link:</b> <a href="http://106.53.126.81/nmic2023">http://106.53.126.81/nmic2023</a>
                 </p>
                     
 <li>
                 <p><b>The Fourth International Workshop on Artificial Intelligence Applications in Internet of Things (AI2OT)</b>
                     <br><br><b>Link:</b> <a href="http://vlab.csu.edu.cn/AI2OT2023/">http://vlab.csu.edu.cn/AI2OT2023/</a>
+                </p> 
+
+	                 <li>
+                <p><b>IEEE International workshop on Metaverse-based Sensing, Computing, and Networking (MetaSCN)</b>
+                    <br><br><b>Link:</b> <a href="https://pf-wang.github.io/metascn_2023/index.html">https://pf-wang.github.io/metascn_2023/index.html</a>
                 </p> 
 
 	 	
