@@ -35,6 +35,24 @@
             add_listitem("Vini Chaudhury", "Northeastern University,USA", "");
             add_listitem("Tiffany Zhang", "University of Nebraska Omaha,USA", "");
 
+            add_listitem("Daibo Liu", "Hunan University,China", "");
+            add_listitem("Xudong Wu", "Tsinghua University,China", "");
+            add_listitem("Xiaoying Liu", "School of Comupter Science and Technology, Zhejiang University of Technology,China", "");
+            add_listitem("Fan Dang", "Tsinghua University,China", "");
+            add_listitem("Chandan Bandyopadhyay", "Dr. B.C Roy Engg College,India", "");
+            add_listitem("Xinyu Tong", "Tianjin University,China", "");
+            add_listitem("Lingkun Li", "Beijing Jiaotong University,China", "");
+            add_listitem("Kaiyan Cui", "The Hong Kong Polytechnic University,China", "");
+            add_listitem("Raju Hazari", "Bengal Engineering And Science University , Shibpur,India", "");
+            add_listitem("Brian Kim", "Northeastern University,USA", "");
+            add_listitem("Stella Bonou", "New York University,USA", "");
+            add_listitem("Chaojie Gu", "Zhejiang University,China", "");
+add_listitem("Borui Li", "Southeast University,China", "");
+add_listitem("Xinlei Chen", "Tsinghua University,China", "");
+add_listitem("Xiuzhen Guo", "Tsinghua University,China", "");
+add_listitem("Wenbin Liu", "jilin university,China", "");
+
+
       ?>
 
       <li data-role="list-divider">Track 2: Edge Computing, IoT and Digital Twins </li>
