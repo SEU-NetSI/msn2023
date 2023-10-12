@@ -40,6 +40,7 @@
             <td style="text-align: center;">2</td>
         </tr>
     </table>
+      
     <p><i>Fee for extra page: USD 100 (CNY 750) per page </i></p>
 
           <h2>Important Deadlines</h2>
