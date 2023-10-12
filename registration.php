@@ -87,7 +87,7 @@
 
     <h2>Registration Procedure</h2>
    <p>Registrations are handled only in electronic form. Only fully completed registration forms will be accepted. The registration fee is based on the date of the receipt of the registration form and the payment in full, in accordance with the deadlines mentioned above. The registration will only be confirmed upon receipt of payment in full. </p>
-   <p>Each registrant should send the transfer receipt and registration form (<a href="form.docx">Chinese version registration form for the participants from the mainland of China</a>  and <a href="MSN 2023 International Conference Registration Form 1.xlsx">English version for the ones from other areas and countries</a> ) to <b>ieee.msn2023@gmail.com</b> with subject "MSN Paper Registration - paper ID" (your paper ID can be checked out from EasyChair). If you have any questions regarding registration, please feel free to contact us via <b>ieee.msn2023@gmail.com</b>.<p>
+   <p>Each registrant should send the transfer receipt and registration form (<a href="form.docx" target="_blank">Chinese version registration form for the participants from the mainland of China</a>  and <a href="MSN 2023 International Conference Registration Form 1.xlsx" target="_blank">English version for the ones from other areas and countries</a> ) to <b>ieee.msn2023@gmail.com</b> with subject "MSN Paper Registration - paper ID" (your paper ID can be checked out from EasyChair). If you have any questions regarding registration, please feel free to contact us via <b>ieee.msn2023@gmail.com</b>.<p>
 
    <h2>Payment</h2>
    <p>All registrations must be submitted online and paid by credit card. </p>
