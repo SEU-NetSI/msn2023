@@ -23,16 +23,15 @@
    <table border="1" style="border-collapse: collapse;">
         <tr>
             <th style="text-align: center;">Paper Type</th>
-            <th style="text-align: center;">&nbsp; &nbsp;&nbsp;No. of pages&nbsp; &nbsp;&nbsp;</th>
-            <th style="text-align: center;">&nbsp; &nbsp;&nbsp;Extra pages&nbsp; &nbsp;&nbsp;
-                <br>&nbsp; &nbsp;&nbsp; allowed&nbsp; &nbsp;&nbsp;</th>
+            <th style="text-align: center;">No. of pages</th>
+            <th style="text-align: center;">Extra pages allowed</th>
             <th style="text-align: center;">Remarks</th>
         </tr>
         <tr>
             <td>Main conf. full paper</td>
             <td style="text-align: center;">8</td>
             <td style="text-align: center;">2</td>
-            <td rowspan="3" >&nbsp;&nbsp;including all the figures,&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;references, and <br>&nbsp;&nbsp;appendices</td>
+            <td rowspan="3" >including all the figures, references, and appendices</td>
         </tr>
         
         <tr>
@@ -43,12 +42,12 @@
     </table>
     <p><i>Fee for extra page: USD 100 (CNY 750) per page </i></p>
 
-        <h2>Important Deadlines</h2>
-    <ul data-role="listview" data-inset="true" data-theme="a" data-content-theme="a" class="datetbl">
-        <?php add_dateitem("<b>Wednesday, 25 October 2023 (11:59pm AOE)</b>", "Camera ready"); ?>
-        <?php add_dateitem("<b>Wednesday, 25 October 2023 (11:59pm AOE)</b>", "Copyright"); ?>
-        <?php add_dateitem("<b>Wednesday, 25 October 2023 (11:59pm AOE)</b>", "Registration"); ?>
-    </ul>
+          <h2>Important Deadlines</h2>
+<ul data-role="listview" data-inset="true" data-theme="a" data-content-theme="a" class="datetbl">
+    <?php add_dateitem("<b>25 October 2023</b>", "Camera ready"); ?>
+    <?php add_dateitem("<b>25 October 2023</b>", "Copyright"); ?>
+    <?php add_dateitem("<b>25 October 2023</b>", "Registration"); ?>
+</ul>
 
     <h2>Submission of the Camera Ready and Copyright Form</h2>
     <p>Detailed instructions for submitting the camera ready version of accepted papers and copyright forms are available at the link:<br><a href="https://ieeecps.org/#!/auth/login?ak=1&pid=6RjeBg7qxtlcZTDpYhzHqb">https://ieeecps.org/#!/auth/login?ak=1&pid=6RjeBg7qxtlcZTDpYhzHqb</a></p>
