@@ -103,10 +103,10 @@
    </ul>
    <p><u><i>Registration Policies for All Attendees</i></u></p>
     <p>Each attendee must have a distinct registration. Registrations are not transferable.</p>
-    p><u><i>No-show Policies </i></u></p>
+    <p><u><i>No-show Policies </i></u></p>
    <p>Each paper must be presented by an author of the paper at the conference. An accepted paper not presented by one of the authors will be removed from the final conference proceedings. No refund will be made to authors of these papers.</p>
 
-   p><u><i>Cancellation Policies</i></u></p>
+   <p><u><i>Cancellation Policies</i></u></p>
    <ul>
        <li>All cancellation requests must be received in writing to <a href="mailto:carmen.au@polyu.edu.hk">carmen.au@polyu.edu.hk</a> <b>by 14 November 2023.</b> No refund will be provided after this date. There will be <b>an administrative fee of US$ 90(CNY 700) </b>deducted from each cancellation.</li>
        <li><b>Author registration is not refundable.</b></li>
