@@ -12,6 +12,7 @@
             <p><b>The Fifth International Workshop on Network Softwarization Techniques for IoT Application (SoftIoT 2023)</b>
                     <br><br><b>Link:</b> <a href="https://chrisye-liu.github.io/SoftIoT2023/">https://chrisye-liu.github.io/SoftIoT2023/</a>
                 </p>
+<<<<<<< HEAD
 
 
                 <li>
@@ -19,11 +20,23 @@
                     <br><br><b>Link:</b> <a href="http://106.53.126.81/nmic2023">http://106.53.126.81/nmic2023</a>
                 </p>
                 <li>
+=======
+		     <li>
+                <p><b>The Fifth International Workshop on Network Meets Intelligent Computations (NMIC 2023)</b>
+                    <br><br><b>Link:</b> <a href="http://106.53.126.81/nmic2023">http://106.53.126.81/nmic2023</a>
+                </p>
+                    
+<li>
+>>>>>>> f9ee07444ea17b47ca5f5230619d12ce5f0b6b8c
                 <p><b>The Fourth International Workshop on Artificial Intelligence Applications in Internet of Things (AI2OT)</b>
                     <br><br><b>Link:</b> <a href="http://vlab.csu.edu.cn/AI2OT2023/">http://vlab.csu.edu.cn/AI2OT2023/</a>
                 </p> 
 
+<<<<<<< HEAD
                  <li>
+=======
+	                 <li>
+>>>>>>> f9ee07444ea17b47ca5f5230619d12ce5f0b6b8c
                 <p><b>IEEE International Workshop on Metaverse-based Sensing, Computing, and Networking (MetaSCN)</b>
                     <br><br><b>Link:</b> <a href="https://pf-wang.github.io/metascn_2023/index.html">https://pf-wang.github.io/metascn_2023/index.html</a>
                 </p> 

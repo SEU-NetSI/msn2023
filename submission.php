@@ -7,11 +7,15 @@
     <h1 style="color: black">Paper Submission and Publication</h1>
     <p>Submitted manuscripts must be prepared according to IEEE Computer Society Proceedings Format (double column, 10pt font, letter paper) and submitted in the PDF format. The manuscript submitted for review should be no longer than 8 pages. After the manuscript is accepted, the camera-ready paper may have up to 10 pages, subject to an additional fee per extra page. Manuscripts should be submitted to one of the research tracks. Submitted manuscripts must not contain previously published material or be under consideration for publication in another conference or journal at the time of submission.</p>
 <p> All submissions to MSN 2023 must be uploaded to <a href="https://easychair.org/conferences/?conf=msn2023">EasyChair</a>.
+<<<<<<< HEAD
 
 <p>Accepted papers will be included in the conference proceedings and published in the IEEE Xplore digital library (indexed by EI). At least one author of any accepted paper must register and present the paper at the conference.  The best submission will receive the MSN 2023 best paper award and best student paper award.</p>
    
 
 
+=======
+   <p>Accepted papers will be included in the conference proceedings and published in the IEEE Xplore digital library (indexed by EI). At least one author of any accepted paper must register and present the paper at the conference.  The best submission will receive the MSN 2023 best paper award and best student paper award.</p>
+>>>>>>> f9ee07444ea17b47ca5f5230619d12ce5f0b6b8c
     <br><br><br><br><br><br><br><br><br><br><br><br>
 
   </div>

@@ -52,7 +52,10 @@ add_listitem("Xinlei Chen", "Tsinghua University,China", "");
 add_listitem("Xiuzhen Guo", "Tsinghua University,China", "");
 add_listitem("Wenbin Liu", "jilin university,China", "");
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> f9ee07444ea17b47ca5f5230619d12ce5f0b6b8c
       ?>
 
       <li data-role="list-divider">Track 2: Edge Computing, IoT and Digital Twins </li>
