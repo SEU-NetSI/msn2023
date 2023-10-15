@@ -10,7 +10,7 @@
           <ul>
             <li>
             <p><b>The Fifth International Workshop on Network Softwarization Techniques for IoT Application (SoftIoT 2023)</b>
-                    <br><br><b>Link:</b> <a href="https://sites.google.com/view/softiot2023/home">https://sites.google.com/view/softiot2023/home</a>
+                    <br><br><b>Link:</b> <a href="https://chrisye-liu.github.io/SoftIoT2023/">https://chrisye-liu.github.io/SoftIoT2023/</a>
                 </p>
 
 
@@ -24,7 +24,7 @@
                 </p> 
 
                  <li>
-                <p><b>IEEE International workshop on Metaverse-based Sensing, Computing, and Networking (MetaSCN)</b>
+                <p><b>IEEE International Workshop on Metaverse-based Sensing, Computing, and Networking (MetaSCN)</b>
                     <br><br><b>Link:</b> <a href="https://pf-wang.github.io/metascn_2023/index.html">https://pf-wang.github.io/metascn_2023/index.html</a>
                 </p> 
 
