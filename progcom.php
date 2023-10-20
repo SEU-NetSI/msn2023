@@ -65,7 +65,7 @@ add_listitem("Wenbin Liu", "jilin university,China", "");
             add_listitem("Yehia Elkhatib", "University of Glasgow, UK", "");
             add_listitem("Chen Chen", "University of Cambridge,UK", "");
             add_listitem("Gabor Kecskemeti", "University of Miskolc, Hungary", "");
-            add_listitem("Suresh Perinpanayagam", "University of York, UK", "");
+           
             add_listitem("Amirhosein Taherkordi", "University of Oslo, Norway", "");
             add_listitem("Anish Jindal", "University of Durham, UK", "");
             add_listitem("Lin Cui", "Jinan University, China", "");
@@ -78,8 +78,8 @@ add_listitem("Haipeng Dai", "Nanjing University,China", "");
 add_listitem("Wei Cai", "The Chinese University of Hong Kong, Shenzhen,China", "");
       add_listitem("Song Yang", "Beijing Institute of Technology,China", "");
             add_listitem("Zehui Xiong", "Singapore University of Technology and Design,Singapore", "");
-            add_listitem("Lei Jiao", "University of Oregon,USA", "");
-            add_listitem("Songtao Guo", "Chongqing University,China", "");
+            
+            
             add_listitem("Yue Cao", "Wuhan University,China", "");
             add_listitem("Qiang He", "Huazhong University of Science and Technology,China", "");
             add_listitem("Yupeng Li", "Hong Kong Baptist University,China", "");
@@ -88,6 +88,23 @@ add_listitem("Wei Cai", "The Chinese University of Hong Kong, Shenzhen,China", "
        add_listitem("Lei Yang", "University of Nevada, Reno,USA", "");
        add_listitem("Jie Xu", "University of Miami,USA", "");
        add_listitem("Xiaowen Gong", "Auburn University,USA", "");
+
+       add_listitem("Qianyi Huang", "Sun Yat-Sen University, China", "");
+       add_listitem("Tingting Yuan", "University of Goettingen, Germany", "");
+       add_listitem("Jiahui Hou", "University of Science and Technology of China, China", "");
+       add_listitem("Miao Hu", "Sun Yat-Sen University, China", "");
+       add_listitem("Lingjun Pu", "Nankai University, China", "");
+       add_listitem("Guocheng Liao", "Sun Yat-Sen University, China", "");
+       add_listitem("Qian Ma", "Sun Yat-Sen University, China", "");
+       add_listitem("Peng Sun", "Hunan University, China", "");
+       add_listitem("Cong Wang", "Zhejiang University, China", "");
+
+
+
+
+
+
+
       ?>
 
       
@@ -103,7 +120,7 @@ add_listitem("Chen Yan", "Zhejiang University, China", "");
             add_listitem("Yushi Cheng", "Zhejiang University, China", "");
             add_listitem("Guoming Zhang", "Shandong University, China", "");
             add_listitem("Xinyan Zhou", "Ningbo University, China", "");
-            add_listitem("Yichao Chen", "Shanghaijiaotong University, China", "");
+            
             add_listitem("Pengfei Hu", "Shandong University, China", "");
             add_listitem("Wei Wang", "Huazhong University of Science and Technology , China", "");
             add_listitem("Lu Wang", "Shenzhen University, China", "");
@@ -114,6 +131,29 @@ add_listitem("Chen Yan", "Zhejiang University, China", "");
       add_listitem("Jing Chen", "Wuhan University,China", "");
             add_listitem("Zimin Zhao", "University at Buffalo,USA", "");
             add_listitem("Jason (Minhui) Xue", "CSIRO’s Data61,Australia", "");
+
+
+            add_listitem("Yan Jia", "Nankai University, China", "");
+            add_listitem("Jiahui Hou", "University of Science and Technology of China, China", "");
+            add_listitem("Hao Pan", "Microsoft Research Asia, China", "");
+            add_listitem("Yanjiao Chen", "Zhejiang University, China", "");
+            add_listitem("Takami Sato", "University of California, Irvine, USA", "");
+            add_listitem("Kaikai Pan", "Zhejiang University, China", "");
+            add_listitem("Dongqi Liu", "Changsha University of Science and Technology, China", "");
+            add_listitem("Siwei Sun", "University of Chinese Academy of Sciences, China", "");
+            add_listitem("Kaitian Huang", "Electric Power Research Institute, CSG, China", "");
+            add_listitem("Yiming Wu", "Hangzhou Dianzi University, China", "");
+            add_listitem("Qingsong Yao", "Xidian University, China", "");
+            add_listitem("Mingshu He", "Beijing University of Posts and Telecommunications, China", "");
+            add_listitem("Xiang Wang", "University of Science and Technology of China, China", "");
+            add_listitem("Liangyi Gong", "Tsinghua University, China", "");
+            add_listitem("Ximeng Liu", "Fuzhou University, China", "");
+
+
+
+
+
+
 
       ?>
 
@@ -137,6 +177,25 @@ add_listitem("Chen Yan", "Zhejiang University, China", "");
       add_listitem("Fei Chen", "Shenzhen University,China", "");
             add_listitem("Yushu Zhang", "Nanjing University of Aeronautics and Astronautics,China", "");
             add_listitem("Ying Yang", "The Chinese University of Hong Kong,China", "");
+
+            add_listitem("Yu Sun", "Nankai University, China", "");
+            add_listitem("Zhixiong Nan", "Chongqing University, China", "");
+            add_listitem("Feng Zhang", "Nanjing University of Posts and Telecommunications, China", "");
+            add_listitem("Xiangrui Cai", "Nankai University, China", "");
+            add_listitem("Chunyao Song", "Nankai University, China", "");
+            add_listitem("Yao Ge", "Nanyang Technological University, Singapore", "");
+            add_listitem("Renjie Huang", "Southwest University, China", "");
+            add_listitem("Lijian Wan", "Oracle, USA", "");
+            add_listitem("Shuai Li", "Shandong University, China", "");
+            add_listitem("Yan Gan", "Chongqing University, China", "");
+            add_listitem("Deqiang Ouyang", "Chongqing University, China", "");
+            add_listitem("Zheng Li", "Amazon RDS Open Source, USA", "");
+            add_listitem("Zhai Qiang", "Hong Kong University of Science and Technology, HK", "");
+
+
+
+
+
       ?>
      
       <li data-role="list-divider">Track 5: Systems, Tools and Testbed </li>
