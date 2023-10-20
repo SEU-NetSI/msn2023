@@ -7,7 +7,7 @@
     <div  class="ui-block-a" style="width:70%;height:100%;background-color:#ffffff;padding-left: 35px;padding-right:35px;padding-top: 15px;">
         <h1>Registration</h1>
            <p>Online registration is now available. All participants must register and pay the appropriate fee in order to attend MSN 2023.</p>
-   <p>Before registering for the conference, please read the following policies and procedures on this page. If you have finished reading this page and are ready to start the registration process, please click on the button below.<p>
+   <p>Before registering for the conference, please read the following policies and procedures on this page. If you have finished reading this page and are ready to start the registration process, please download the corresponding registration form.<p>
    
 <h2>Author Registration Requirements</h2>
    <ul>
