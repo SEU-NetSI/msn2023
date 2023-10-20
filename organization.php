@@ -76,7 +76,7 @@
      <li data-role="list-divider">Steering Committee Co-Chairs</li>
       <?php
       add_listitem("Jiannong Cao", "The Hong Kong Polytechnic University, HK","");
-      add_listitem("Xiaohua Jia", "City University of Hong Kong , HK","");
+      add_listitem("Xiaohua Jia", "City University of Hong Kong, HK","");
       ?>
 
     </ul>
