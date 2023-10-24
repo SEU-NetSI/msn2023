@@ -38,7 +38,7 @@
       <?php
       add_listitem("Ruidong Li", "Kanazawa University, Japan", "");
       add_listitem("Wei Xi", "Xi'an Jiaotong University, China", "");
-      add_listitem("Feng Li", "Shangdong University, China","");
+      add_listitem("Feng Li", "Shandong University, China","");
       ?>
       <li data-role="list-divider">Publication Chairs</li>
       <?php

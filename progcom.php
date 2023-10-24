@@ -43,14 +43,14 @@
             add_listitem("Xinyu Tong", "Tianjin University, China", "");
             add_listitem("Lingkun Li", "Beijing Jiaotong University, China", "");
             add_listitem("Kaiyan Cui", "The Hong Kong Polytechnic University, China", "");
-            add_listitem("Raju Hazari", "Bengal Engineering And Science University , Shibpur, India", "");
+            add_listitem("Raju Hazari", "Bengal Engineering And Science University, Shibpur, India", "");
             add_listitem("Brian Kim", "Northeastern University, USA", "");
             add_listitem("Stella Bonou", "New York University, USA", "");
             add_listitem("Chaojie Gu", "Zhejiang University, China", "");
 add_listitem("Borui Li", "Southeast University, China", "");
 add_listitem("Xinlei Chen", "Tsinghua University, China", "");
 add_listitem("Xiuzhen Guo", "Tsinghua University, China", "");
-add_listitem("Wenbin Liu", "jilin university, China", "");
+add_listitem("Wenbin Liu", "Jilin university, China", "");
 
       ?>
 
@@ -115,14 +115,14 @@ add_listitem("Wei Cai", "The Chinese University of Hong Kong, Shenzhen, China", 
       add_listitem("Xiaoyu Ji", "Zhejiang University, China", "");
 
             add_listitem("<b>TPC Members:</b>","","");
-            add_listitem("Shan Wang", "The Hong Kong Polytechnic University, HK", "");
+            add_listitem("Shan Wang", "The Hong Kong Polytechnic University, China", "");
 add_listitem("Chen Yan", "Zhejiang University, China", "");
             add_listitem("Yushi Cheng", "Zhejiang University, China", "");
             add_listitem("Guoming Zhang", "Shandong University, China", "");
             add_listitem("Xinyan Zhou", "Ningbo University, China", "");
             
             add_listitem("Pengfei Hu", "Shandong University, China", "");
-            add_listitem("Wei Wang", "Huazhong University of Science and Technology , China", "");
+            add_listitem("Wei Wang", "Huazhong University of Science and Technology, China", "");
             add_listitem("Lu Wang", "Shenzhen University, China", "");
             add_listitem("Yuhong Nan", "Sun Yat-sen University, China", "");
             add_listitem("Yan Meng", "Shanghai Jiao Tong University, China", "");
@@ -190,7 +190,7 @@ add_listitem("Chen Yan", "Zhejiang University, China", "");
             add_listitem("Yan Gan", "Chongqing University, China", "");
             add_listitem("Deqiang Ouyang", "Chongqing University, China", "");
             add_listitem("Zheng Li", "Amazon RDS Open Source, USA", "");
-            add_listitem("Zhai Qiang", "Hong Kong University of Science and Technology, HK", "");
+            add_listitem("Zhai Qiang", "Hong Kong University of Science and Technology, China", "");
 
 
 
@@ -211,7 +211,7 @@ add_listitem("YingYing Hou", "The Hong Kong Polytechnic University, China", "");
             add_listitem("Lu Wang", "Shenzhen University, China", "");
                         add_listitem("Tongxin Zhu", "Southeast University, China", "");
             add_listitem("Ruipeng Gao", "Beijing Jiaotong University, China", "");
-            add_listitem("Meng Jin", "Shanghai Jiaotong University, China", "");
+            add_listitem("Meng Jin", "Shanghai Jiao Tong University, China", "");
             add_listitem("Chenshu Wu", "The University of Hong Kong, China", "");
             add_listitem("Meng Li", "Nanjing University, China", "");
             add_listitem("Dan Xia", "Beijing University of Posts and Telecommunications, China", "");
