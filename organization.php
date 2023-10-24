@@ -42,7 +42,7 @@
       ?>
       <li data-role="list-divider">Publication Chairs</li>
       <?php
-      add_listitem("Dan Wang", "The Hong Kong Polytechnic University, HK","");
+      add_listitem("Dan Wang", "The Hong Kong Polytechnic University, China","");
      
       ?>
 
@@ -50,7 +50,7 @@
       <li data-role="list-divider">Web Co-Chairs</li>
       <?php
       add_listitem("Feng Shan", "Southeast University, China","");
-      add_listitem("Zhenjiang Li", "City University of Hong Kong, HK","");
+      add_listitem("Zhenjiang Li", "City University of Hong Kong, China","");
       ?>
 
 
@@ -69,14 +69,14 @@
 
       <li data-role="list-divider">Financial Chair</li>
       <?php
-      add_listitem("Carmen Au", "The Hong Kong Polytechnic University, HK","");
+      add_listitem("Carmen Au", "The Hong Kong Polytechnic University, China","");
       
       ?>
 
      <li data-role="list-divider">Steering Committee Co-Chairs</li>
       <?php
-      add_listitem("Jiannong Cao", "The Hong Kong Polytechnic University, HK","");
-      add_listitem("Xiaohua Jia", "City University of Hong Kong, HK","");
+      add_listitem("Jiannong Cao", "The Hong Kong Polytechnic University, China","");
+      add_listitem("Xiaohua Jia", "City University of Hong Kong, China","");
       ?>
 
     </ul>
