@@ -55,7 +55,7 @@
 <?php add_dateitem("Sep.15, 2023", "Workshop Proposal Submission Due"); ?>
 <?php add_dateitem("Oct. 1, 2023", "Author Notification"); ?>
     	
-		    <?php add_dateitem("Oct 25, 2023", "Camera-Ready Due"); ?>
+		    <?php add_dateitem("Oct 30, 2023", "Camera-Ready Due"); ?>
 		    <?php add_dateitem("Dec 14-16, 2023", "Conference Date"); ?>  
 		</ul>
 
