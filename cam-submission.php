@@ -46,8 +46,8 @@
           <h2>Important Deadlines</h2>
 <ul data-role="listview" data-inset="true" data-theme="a" data-content-theme="a" class="datetbl">
     <?php add_dateitem("<b>30 October 2023</b>", "Camera ready"); ?>
-    <?php add_dateitem("<b>25 October 2023</b>", "Copyright"); ?>
-    <?php add_dateitem("<b>25 October 2023</b>", "Registration"); ?>
+    <?php add_dateitem("<b>30 October 2023</b>", "Copyright"); ?>
+    <?php add_dateitem("<b>30 October 2023</b>", "Registration"); ?>
 </ul>
 
     <h2>Submission of the Camera Ready and Copyright Form</h2>
