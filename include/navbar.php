@@ -66,7 +66,8 @@
           <div class="dropdown-content">
 <!--             <a href="tutorials.php">Tutorials</a>
           <a href="accepted-papers.php">List of Accepted Papers&nbsp;&nbsp;</a> -->
-            <a href="Program.php">Program&nbsp;&nbsp;</a>
+          <a href="keynote_1.php">Keynote I&nbsp;&nbsp;</a>
+          <a href="glance.php">Program at a Glance&nbsp;&nbsp;</a>
             
 
 
