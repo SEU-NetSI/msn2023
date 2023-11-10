@@ -90,7 +90,7 @@
 
     <li style="width:17%;">
       <div class="dropdown">
-        <a class = "mybar-item dropbtn <?php if($mypage == "plat.php" || $mypage == "acco.php"){echo 'btn-selected-ui';}?>"href="plat.php" >Conference Venue</a>
+        <a class = "mybar-item dropbtn <?php if($mypage == "plat.php" || $mypage == "acco.php"){echo 'btn-selected-ui';}?>"href="plat.php" >Venue & Hotel</a>
         <div class="dropdown-content">
 <!--           <a href="venue.php">Conference Venue</a>
           <a href="acco.php">Accommodation</a> -->

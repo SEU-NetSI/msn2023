@@ -31,7 +31,7 @@
                 <li><b>Distance from Nanjing Railway Station is about 20 km</b></li>
                 <ul>
                 <li>Taxi about 40 minutes</li>
-                <li>-Metro line 1 to Baijiahu station(百家湖站)</li>
+                <li>Metro line 1 to Baijiahu station(百家湖站)</li>
                 </ul>
             </ul>
 
