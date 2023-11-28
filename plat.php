@@ -42,7 +42,7 @@ We will send a confirmation email to you when your accommodation fee is successf
         <p>如需预订会议酒店（协议优惠价：490 元/晚）请下载如下表格<a href="MSN 2023 International Conference 酒店预订final.doc" target="_blank">（会议酒店预定回执）</a>，填写后提交到会务组邮箱<a href="mailto:ieee.msn2023@gmail.com">ieee.msn2023@gmail.com</a>，我们将回复邮件确认。</p>
         <p>如果您有其他问题，请加入此微信群向我们咨询。 </p>
         <div class="swiper-slide" style="width: 100%">
-           <img style="width: 40%"src="images/nanjing/msn2023QRcode.jpg">
+           <img style="width: 40%"src="images/nanjing/invitation.jpg">
         </div>
 
 
