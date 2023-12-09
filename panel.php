@@ -19,7 +19,7 @@
 		<p>&nbsp;</p>
 		<p><strong>Biography</strong></p>
 		<p><strong>&nbsp;</strong></p>
-		<img src="images/panel/LeiXie.png" style="float:left; margin: 5px;" />
+		<img src="images/panel/LX.jpg" style="float:left; margin: 5px;" />
 		<p>Lei Xie is a Professor and vice chair of the Department of Computer Science and Technology in Nanjing University. He is CCF Distinguished Member, CCF Distinguished Speaker. His research interests include multimodal sensing, pervasive and mobile computing, and Industrial Internet of things. He has published over 130 papers in TON, TMC, MOBICOM, UBICOMP, MobiHoc, INFOCOM etc. He has published a monograph "RFID: Principles, Protocols and System Design" in Science Press. He received the first prize of Jiangsu Science and Technology Prize in 2016 and 2019, respectively. His research projects have been reported by a number of many high-end media, including CCTV, Jiangsu City Channel, SoHu, Sina, etc.</p>
 		<p><strong>&nbsp;</strong></p>
 	
